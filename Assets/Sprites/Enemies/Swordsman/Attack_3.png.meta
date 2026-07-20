@@ -114,6 +114,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -121,12 +134,21 @@ TextureImporter:
       name: Attack_3_0
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Swordsman/Attack_3.png.meta
         x: 36
         y: 0
         width: 43
         height: 65
       alignment: 9
       pivot: {x: 0.21901579, y: 0}
+=======
+        x: 22
+        y: 0
+        width: 79
+        height: 75
+      alignment: 9
+      pivot: {x: 0.23, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Samurai/Attack_3.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -143,12 +165,21 @@ TextureImporter:
       name: Attack_3_1
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Swordsman/Attack_3.png.meta
         x: 164
         y: 0
         width: 74
         height: 65
       alignment: 9
       pivot: {x: 0.12700179, y: 0}
+=======
+        x: 152
+        y: 0
+        width: 100
+        height: 75
+      alignment: 9
+      pivot: {x: 0.15, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Samurai/Attack_3.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -161,11 +192,40 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Swordsman/Attack_3.png.meta
+=======
+    - serializedVersion: 2
+      name: Attack_3_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 101
+        height: 75
+      alignment: 9
+      pivot: {x: 0.15, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077d5285b113a40f0800000000000000
+      internalID: -1132038362817505424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Samurai/Attack_3.png.meta
     outline: []
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Swordsman/Attack_3.png.meta
     spriteID: 9334a4039557075468e4b3d56abe3363
+=======
+    spriteID: ff2db2b6a5b63604985cf66d691b1457
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Samurai/Attack_3.png.meta
     internalID: 0
     vertices: []
     indices: 

@@ -49,7 +49,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -108,6 +108,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -115,12 +128,12 @@ TextureImporter:
       name: Hurt_0
       rect:
         serializedVersion: 2
-        x: 22
+        x: 23
         y: 0
-        width: 47
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 45
+        height: 22
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -137,12 +150,12 @@ TextureImporter:
       name: Hurt_1
       rect:
         serializedVersion: 2
-        x: 118
+        x: 119
         y: 0
-        width: 45
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 43
+        height: 30
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -159,12 +172,12 @@ TextureImporter:
       name: Hurt_2
       rect:
         serializedVersion: 2
-        x: 214
+        x: 215
         y: 0
-        width: 53
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 51
+        height: 30
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -181,12 +194,12 @@ TextureImporter:
       name: Hurt_3
       rect:
         serializedVersion: 2
-        x: 310
+        x: 311
         y: 0
-        width: 53
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 51
+        height: 30
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -203,12 +216,12 @@ TextureImporter:
       name: Hurt_4
       rect:
         serializedVersion: 2
-        x: 406
+        x: 407
         y: 0
-        width: 53
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 51
+        height: 30
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -225,7 +238,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d48f38df7cdab184bb1e609bcb622657
     internalID: 0
     vertices: []
     indices: 

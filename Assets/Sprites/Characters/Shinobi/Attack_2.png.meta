@@ -105,6 +105,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -112,12 +125,19 @@ TextureImporter:
       name: Attack_2_0
       rect:
         serializedVersion: 2
-        x: 44
+        x: 45
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Shinobi/Attack_2.png.meta
         width: 49
         height: 73
       alignment: 9
       pivot: {x: 0.09393988, y: 0}
+=======
+        width: 47
+        height: 72
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Shinobi/Attack_2.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -134,12 +154,19 @@ TextureImporter:
       name: Attack_2_1
       rect:
         serializedVersion: 2
-        x: 150
+        x: 151
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Shinobi/Attack_2.png.meta
         width: 96
         height: 77
       alignment: 9
       pivot: {x: 0.2826352, y: 0}
+=======
+        width: 60
+        height: 76
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Shinobi/Attack_2.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -153,15 +180,47 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Shinobi/Attack_2.png.meta
+=======
+      name: Attack_2_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 33
+        width: 29
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba1666b8b0701fc0800000000000000
+      internalID: -3526194569594660169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Shinobi/Attack_2.png.meta
       name: Attack_2_3
       rect:
         serializedVersion: 2
-        x: 274
+        x: 275
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Shinobi/Attack_2.png.meta
         width: 67
         height: 77
       alignment: 9
       pivot: {x: 0.47443357, y: 0}
+=======
+        width: 65
+        height: 76
+      alignment: 9
+      pivot: {x: 0.48, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Shinobi/Attack_2.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -178,7 +237,11 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Shinobi/Attack_2.png.meta
     spriteID: 67376810968459b41a1c8d56dc3b1790
+=======
+    spriteID: 12dd45a105a19b847b121321a38380ce
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Shinobi/Attack_2.png.meta
     internalID: 0
     vertices: []
     indices: 

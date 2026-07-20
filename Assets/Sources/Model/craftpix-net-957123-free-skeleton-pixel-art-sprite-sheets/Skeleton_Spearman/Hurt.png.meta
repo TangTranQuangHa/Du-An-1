@@ -43,7 +43,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -102,6 +102,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -109,12 +122,12 @@ TextureImporter:
       name: Hurt_0
       rect:
         serializedVersion: 2
-        x: 42
+        x: 43
         y: 0
-        width: 44
-        height: 83
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 42
+        height: 82
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -131,12 +144,12 @@ TextureImporter:
       name: Hurt_1
       rect:
         serializedVersion: 2
-        x: 177
+        x: 178
         y: 0
-        width: 37
-        height: 83
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 35
+        height: 82
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -153,12 +166,12 @@ TextureImporter:
       name: Hurt_2
       rect:
         serializedVersion: 2
-        x: 315
+        x: 316
         y: 0
-        width: 32
-        height: 83
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 30
+        height: 82
+      alignment: 9
+      pivot: {x: 0.15, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -175,7 +188,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 05c6660a64c446848bcdd86ec9ec7ffe
     internalID: 0
     vertices: []
     indices: 

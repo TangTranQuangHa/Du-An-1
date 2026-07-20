@@ -64,7 +64,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -123,6 +123,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -130,12 +143,12 @@ TextureImporter:
       name: Walk_0
       rect:
         serializedVersion: 2
-        x: 17
+        x: 18
         y: 0
-        width: 53
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 51
+        height: 36
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -152,12 +165,12 @@ TextureImporter:
       name: Walk_1
       rect:
         serializedVersion: 2
-        x: 115
+        x: 116
         y: 0
-        width: 56
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 54
+        height: 30
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -174,12 +187,12 @@ TextureImporter:
       name: Walk_2
       rect:
         serializedVersion: 2
-        x: 211
+        x: 212
         y: 0
-        width: 65
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 63
+        height: 26
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -196,12 +209,12 @@ TextureImporter:
       name: Walk_3
       rect:
         serializedVersion: 2
-        x: 311
+        x: 312
         y: 0
-        width: 57
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 55
+        height: 25
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -218,12 +231,12 @@ TextureImporter:
       name: Walk_4
       rect:
         serializedVersion: 2
-        x: 408
+        x: 409
         y: 0
-        width: 60
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 58
+        height: 32
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -240,12 +253,12 @@ TextureImporter:
       name: Walk_5
       rect:
         serializedVersion: 2
-        x: 504
+        x: 505
         y: 0
-        width: 53
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 51
+        height: 34
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -262,12 +275,12 @@ TextureImporter:
       name: Walk_6
       rect:
         serializedVersion: 2
-        x: 600
+        x: 601
         y: 0
-        width: 56
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 54
+        height: 31
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -284,12 +297,12 @@ TextureImporter:
       name: Walk_7
       rect:
         serializedVersion: 2
-        x: 691
+        x: 692
         y: 0
-        width: 65
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 63
+        height: 25
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -306,12 +319,12 @@ TextureImporter:
       name: Walk_8
       rect:
         serializedVersion: 2
-        x: 788
+        x: 789
         y: 0
-        width: 57
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 55
+        height: 26
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -328,12 +341,12 @@ TextureImporter:
       name: Walk_9
       rect:
         serializedVersion: 2
-        x: 884
+        x: 885
         y: 0
-        width: 59
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 57
+        height: 32
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -350,7 +363,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 9dee9013b83f9e7468d34191b2cfac72
     internalID: 0
     vertices: []
     indices: 

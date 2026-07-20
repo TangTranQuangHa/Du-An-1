@@ -99,6 +99,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -111,7 +124,11 @@ TextureImporter:
         width: 46
         height: 76
       alignment: 9
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Fighter/Shield.png.meta
       pivot: {x: 0, y: 0}
+=======
+      pivot: {x: 0.05, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Fighter/Shield.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -133,7 +150,11 @@ TextureImporter:
         width: 46
         height: 75
       alignment: 9
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Fighter/Shield.png.meta
       pivot: {x: 0, y: 0}
+=======
+      pivot: {x: 0.05, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Fighter/Shield.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -150,7 +171,11 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Fighter/Shield.png.meta
     spriteID: fae2f24788d61bf4f944d9073f229cd0
+=======
+    spriteID: 3a8da25f1d3f1f949949d0a2a02342d0
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Fighter/Shield.png.meta
     internalID: 0
     vertices: []
     indices: 

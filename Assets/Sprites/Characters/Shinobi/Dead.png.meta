@@ -105,6 +105,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -112,12 +125,19 @@ TextureImporter:
       name: Dead_0
       rect:
         serializedVersion: 2
-        x: 38
+        x: 39
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Shinobi/Dead.png.meta
         width: 37
         height: 71
       alignment: 9
       pivot: {x: 0.13546258, y: 0}
+=======
+        width: 35
+        height: 70
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Shinobi/Dead.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -134,12 +154,19 @@ TextureImporter:
       name: Dead_1
       rect:
         serializedVersion: 2
-        x: 165
+        x: 166
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Shinobi/Dead.png.meta
         width: 39
         height: 64
       alignment: 9
       pivot: {x: 0.077302985, y: 0}
+=======
+        width: 37
+        height: 63
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Shinobi/Dead.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -156,12 +183,19 @@ TextureImporter:
       name: Dead_2
       rect:
         serializedVersion: 2
-        x: 294
+        x: 295
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Shinobi/Dead.png.meta
         width: 50
         height: 61
       alignment: 9
       pivot: {x: 0.06838806, y: 0}
+=======
+        width: 48
+        height: 60
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Shinobi/Dead.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -178,12 +212,19 @@ TextureImporter:
       name: Dead_3
       rect:
         serializedVersion: 2
-        x: 421
+        x: 422
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Shinobi/Dead.png.meta
         width: 83
         height: 16
       alignment: 9
       pivot: {x: 0.05582106, y: 0}
+=======
+        width: 81
+        height: 15
+      alignment: 9
+      pivot: {x: 0.03, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Shinobi/Dead.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -200,7 +241,11 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Shinobi/Dead.png.meta
     spriteID: bcbbda5c0b56d1e41a6e9d1acb684f7f
+=======
+    spriteID: 776a5e922f9a8584dbb613996116476e
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Shinobi/Dead.png.meta
     internalID: 0
     vertices: []
     indices: 

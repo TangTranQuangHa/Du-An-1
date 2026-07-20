@@ -49,7 +49,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -108,6 +108,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -115,12 +128,12 @@ TextureImporter:
       name: Idle_2_0
       rect:
         serializedVersion: 2
-        x: 19
+        x: 20
         y: 0
-        width: 76
-        height: 88
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 74
+        height: 87
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -137,12 +150,12 @@ TextureImporter:
       name: Idle_2_1
       rect:
         serializedVersion: 2
-        x: 151
+        x: 152
         y: 0
-        width: 76
-        height: 88
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 74
+        height: 87
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -159,12 +172,12 @@ TextureImporter:
       name: Idle_2_2
       rect:
         serializedVersion: 2
-        x: 275
+        x: 276
         y: 0
-        width: 76
-        height: 88
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 74
+        height: 87
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -181,12 +194,12 @@ TextureImporter:
       name: Idle_2_3
       rect:
         serializedVersion: 2
-        x: 403
+        x: 404
         y: 0
-        width: 76
-        height: 88
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 74
+        height: 87
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -203,12 +216,12 @@ TextureImporter:
       name: Idle_2_4
       rect:
         serializedVersion: 2
-        x: 531
+        x: 532
         y: 0
-        width: 76
-        height: 88
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 74
+        height: 87
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -225,7 +238,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: fca202d008d882c488c23e4548ca11d7
     internalID: 0
     vertices: []
     indices: 

@@ -108,6 +108,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -115,12 +128,19 @@ TextureImporter:
       name: Idle_0
       rect:
         serializedVersion: 2
-        x: 29
+        x: 30
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Converted_Vampire/Idle.png.meta
         width: 51
         height: 77
       alignment: 9
       pivot: {x: 0.60284895, y: 0}
+=======
+        width: 49
+        height: 76
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Converted_Vampire/Idle.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -137,12 +157,19 @@ TextureImporter:
       name: Idle_1
       rect:
         serializedVersion: 2
-        x: 157
+        x: 158
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Converted_Vampire/Idle.png.meta
         width: 51
         height: 78
       alignment: 9
       pivot: {x: 0.6101954, y: 0}
+=======
+        width: 49
+        height: 77
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Converted_Vampire/Idle.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -159,12 +186,19 @@ TextureImporter:
       name: Idle_2
       rect:
         serializedVersion: 2
-        x: 285
+        x: 286
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Converted_Vampire/Idle.png.meta
         width: 51
         height: 78
       alignment: 9
       pivot: {x: 0.58081055, y: 0}
+=======
+        width: 49
+        height: 77
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Converted_Vampire/Idle.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -181,12 +215,19 @@ TextureImporter:
       name: Idle_3
       rect:
         serializedVersion: 2
-        x: 413
+        x: 414
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Converted_Vampire/Idle.png.meta
         width: 51
         height: 79
       alignment: 9
       pivot: {x: 0.602849, y: 0}
+=======
+        width: 49
+        height: 78
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Converted_Vampire/Idle.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -203,12 +244,19 @@ TextureImporter:
       name: Idle_4
       rect:
         serializedVersion: 2
-        x: 541
+        x: 542
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Converted_Vampire/Idle.png.meta
         width: 51
         height: 78
       alignment: 9
       pivot: {x: 0.58081055, y: 0}
+=======
+        width: 49
+        height: 77
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Converted_Vampire/Idle.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -225,7 +273,11 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Converted_Vampire/Idle.png.meta
     spriteID: c9815efacc680cc4fb00e1f938d696dd
+=======
+    spriteID: 9fbfb15b5b311f748983ee89499af88c
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Converted_Vampire/Idle.png.meta
     internalID: 0
     vertices: []
     indices: 

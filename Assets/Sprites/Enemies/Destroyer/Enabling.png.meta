@@ -102,6 +102,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -109,6 +122,7 @@ TextureImporter:
       name: Enabling_0
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Destroyer/Enabling.png.meta
         x: 41
         y: 0
         width: 32
@@ -159,14 +173,71 @@ TextureImporter:
         height: 78
       alignment: 0
       pivot: {x: 0, y: 0}
+=======
+        x: 25
+        y: 0
+        width: 49
+        height: 74
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Samurai/Dead.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Destroyer/Enabling.png.meta
       spriteID: 9aa5c3ea1f2de1d50800000000000000
       internalID: 6710032430280759977
+=======
+      spriteID: 33123f4e07626c420800000000000000
+      internalID: 2649847697073447219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 52
+        height: 58
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc50d84dfa4b7ec80800000000000000
+      internalID: -8293461521501190705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 75
+        height: 10
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6dfca117e4c59e0800000000000000
+      internalID: -1631342717326862633
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Samurai/Dead.png.meta
       vertices: []
       indices: 
       edges: []
@@ -175,7 +246,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 57e5618b356a46946ac41486f14f7933
     internalID: 0
     vertices: []
     indices: 

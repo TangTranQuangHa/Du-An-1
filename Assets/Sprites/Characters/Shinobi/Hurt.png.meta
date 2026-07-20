@@ -99,6 +99,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -106,12 +119,19 @@ TextureImporter:
       name: Hurt_0
       rect:
         serializedVersion: 2
-        x: 44
+        x: 45
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Shinobi/Hurt.png.meta
         width: 38
         height: 76
       alignment: 9
       pivot: {x: 0.11826214, y: 0}
+=======
+        width: 36
+        height: 75
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Shinobi/Hurt.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -128,12 +148,19 @@ TextureImporter:
       name: Hurt_1
       rect:
         serializedVersion: 2
-        x: 172
+        x: 173
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Shinobi/Hurt.png.meta
         width: 37
         height: 76
       alignment: 9
       pivot: {x: 0.120729186, y: 1}
+=======
+        width: 35
+        height: 75
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Shinobi/Hurt.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -150,7 +177,11 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Shinobi/Hurt.png.meta
     spriteID: ce37f15da264b904f815dbdb20b448ae
+=======
+    spriteID: fbcff6e2abd8695428b812555b69f673
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Shinobi/Hurt.png.meta
     internalID: 0
     vertices: []
     indices: 

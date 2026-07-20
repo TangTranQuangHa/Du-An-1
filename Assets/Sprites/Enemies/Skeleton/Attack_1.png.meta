@@ -118,6 +118,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Skeleton/Attack_1.png.meta
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -131,6 +132,8 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
+=======
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Samurai/Attack_1.png.meta
     buildTarget: WindowsStoreApps
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -150,12 +153,21 @@ TextureImporter:
       name: Attack_1_0
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Skeleton/Attack_1.png.meta
         x: 35
         y: 1
         width: 45
         height: 67
       alignment: 9
       pivot: {x: 0.48, y: 0}
+=======
+        x: 23
+        y: 0
+        width: 53
+        height: 74
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Samurai/Attack_1.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -172,12 +184,21 @@ TextureImporter:
       name: Attack_1_1
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Skeleton/Attack_1.png.meta
         x: 150
         y: 0
         width: 53
         height: 69
       alignment: 9
       pivot: {x: 0.6, y: 0}
+=======
+        x: 152
+        y: 0
+        width: 52
+        height: 73
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Samurai/Attack_1.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -194,12 +215,21 @@ TextureImporter:
       name: Attack_1_2
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Skeleton/Attack_1.png.meta
         x: 275
         y: 0
         width: 55
         height: 69
       alignment: 9
       pivot: {x: 0.66, y: 0}
+=======
+        x: 280
+        y: 0
+        width: 57
+        height: 73
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Samurai/Attack_1.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -216,12 +246,21 @@ TextureImporter:
       name: Attack_1_3
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Skeleton/Attack_1.png.meta
         x: 435
         y: 0
         width: 80
         height: 70
       alignment: 9
       pivot: {x: 0.12, y: 0}
+=======
+        x: 408
+        y: 0
+        width: 63
+        height: 74
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Samurai/Attack_1.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -235,6 +274,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Skeleton/Attack_1.png.meta
       name: Attack_1_5
       rect:
         serializedVersion: 2
@@ -244,6 +284,39 @@ TextureImporter:
         height: 70
       alignment: 9
       pivot: {x: 0.16, y: 0}
+=======
+      name: Attack_1_4
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 0
+        width: 54
+        height: 74
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e7d9d0af0efcb20800000000000000
+      internalID: 3156989228384878200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_1_5
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 31
+        width: 36
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Samurai/Attack_1.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -260,12 +333,21 @@ TextureImporter:
       name: Attack_1_6
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Skeleton/Attack_1.png.meta
         x: 690
         y: 0
         width: 35
         height: 70
       alignment: 9
       pivot: {x: 0.23, y: 0}
+=======
+        x: 608
+        y: 30
+        width: 29
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Samurai/Attack_1.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -282,12 +364,21 @@ TextureImporter:
       name: Attack_1_7
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Skeleton/Attack_1.png.meta
         x: 820
         y: 0
         width: 33
         height: 70
       alignment: 9
       pivot: {x: 0.16, y: 0}
+=======
+        x: 664
+        y: 0
+        width: 54
+        height: 74
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Samurai/Attack_1.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -304,7 +395,11 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Skeleton/Attack_1.png.meta
     spriteID: 86d04465c8274544f8177b5b4632fe9e
+=======
+    spriteID: 8cbf18d5c1b5db74c9321ce8ecc51c92
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Samurai/Attack_1.png.meta
     internalID: 0
     vertices: []
     indices: 

@@ -99,6 +99,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -106,12 +119,19 @@ TextureImporter:
       name: Hurt_0
       rect:
         serializedVersion: 2
-        x: 37
+        x: 38
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Vampire_Girl/Hurt.png.meta
         width: 37
         height: 70
       alignment: 9
       pivot: {x: 0.37215608, y: 0}
+=======
+        width: 35
+        height: 69
+      alignment: 9
+      pivot: {x: 0.3606804, y: 0.035334814}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Vampire_Girl/Hurt.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -128,12 +148,19 @@ TextureImporter:
       name: Hurt_1
       rect:
         serializedVersion: 2
-        x: 164
+        x: 165
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Vampire_Girl/Hurt.png.meta
         width: 38
         height: 70
       alignment: 9
       pivot: {x: 0.44605938, y: 0}
+=======
+        width: 36
+        height: 69
+      alignment: 9
+      pivot: {x: 0.44130495, y: 0.009422727}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Vampire_Girl/Hurt.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -150,7 +177,11 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Vampire_Girl/Hurt.png.meta
     spriteID: 2bbbd43d0980fa1418bcd1087d9a8a03
+=======
+    spriteID: 3a0630323ac21d146b39fbadccd59c84
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Vampire_Girl/Hurt.png.meta
     internalID: 0
     vertices: []
     indices: 

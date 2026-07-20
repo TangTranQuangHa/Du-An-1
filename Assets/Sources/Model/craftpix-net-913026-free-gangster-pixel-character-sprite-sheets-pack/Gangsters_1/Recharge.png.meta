@@ -85,7 +85,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -144,6 +144,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -151,12 +164,12 @@ TextureImporter:
       name: Recharge_0
       rect:
         serializedVersion: 2
-        x: 46
+        x: 47
         y: 0
-        width: 45
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 43
+        height: 70
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -177,8 +190,8 @@ TextureImporter:
         y: 0
         width: 28
         height: 73
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -195,12 +208,12 @@ TextureImporter:
       name: Recharge_2
       rect:
         serializedVersion: 2
-        x: 302
+        x: 303
         y: 0
-        width: 39
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 38
+        height: 70
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -219,10 +232,10 @@ TextureImporter:
         serializedVersion: 2
         x: 430
         y: 0
-        width: 35
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 34
+        height: 70
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -239,12 +252,12 @@ TextureImporter:
       name: Recharge_4
       rect:
         serializedVersion: 2
-        x: 558
+        x: 559
         y: 0
-        width: 36
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 35
+        height: 70
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -263,10 +276,10 @@ TextureImporter:
         serializedVersion: 2
         x: 686
         y: 0
-        width: 35
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 34
+        height: 70
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -283,12 +296,12 @@ TextureImporter:
       name: Recharge_6
       rect:
         serializedVersion: 2
-        x: 814
+        x: 815
         y: 0
-        width: 39
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 37
+        height: 70
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -307,10 +320,10 @@ TextureImporter:
         serializedVersion: 2
         x: 942
         y: 0
-        width: 36
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 35
+        height: 70
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -330,9 +343,9 @@ TextureImporter:
         x: 1070
         y: 0
         width: 30
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 70
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -351,10 +364,10 @@ TextureImporter:
         serializedVersion: 2
         x: 1198
         y: 0
-        width: 30
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 29
+        height: 70
+      alignment: 9
+      pivot: {x: 0.15, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -374,9 +387,9 @@ TextureImporter:
         x: 1326
         y: 0
         width: 30
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 70
+      alignment: 9
+      pivot: {x: 0.15, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -393,12 +406,12 @@ TextureImporter:
       name: Recharge_11
       rect:
         serializedVersion: 2
-        x: 1454
+        x: 1455
         y: 0
-        width: 30
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 28
+        height: 70
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -417,10 +430,10 @@ TextureImporter:
         serializedVersion: 2
         x: 1582
         y: 0
-        width: 36
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 35
+        height: 70
+      alignment: 9
+      pivot: {x: 0.15, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -437,12 +450,12 @@ TextureImporter:
       name: Recharge_13
       rect:
         serializedVersion: 2
-        x: 1710
+        x: 1711
         y: 0
-        width: 39
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 38
+        height: 70
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -461,10 +474,10 @@ TextureImporter:
         serializedVersion: 2
         x: 1838
         y: 0
-        width: 35
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 34
+        height: 70
+      alignment: 9
+      pivot: {x: 0.15, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -481,12 +494,12 @@ TextureImporter:
       name: Recharge_15
       rect:
         serializedVersion: 2
-        x: 1966
+        x: 1967
         y: 0
-        width: 39
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 38
+        height: 70
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -506,9 +519,9 @@ TextureImporter:
         x: 2094
         y: 0
         width: 45
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 70
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -525,7 +538,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5fb759f55a7667c4d8c53064102248ef
     internalID: 0
     vertices: []
     indices: 

@@ -58,7 +58,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -117,6 +117,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -124,12 +137,12 @@ TextureImporter:
       name: Run_0
       rect:
         serializedVersion: 2
-        x: 41
+        x: 42
         y: 0
-        width: 37
-        height: 63
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 35
+        height: 62
+      alignment: 9
+      pivot: {x: 0.02, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -146,12 +159,12 @@ TextureImporter:
       name: Run_1
       rect:
         serializedVersion: 2
-        x: 168
+        x: 169
         y: 0
-        width: 35
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 33
+        height: 61
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -168,12 +181,12 @@ TextureImporter:
       name: Run_2
       rect:
         serializedVersion: 2
-        x: 290
+        x: 291
         y: 0
-        width: 48
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 46
+        height: 60
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -190,12 +203,12 @@ TextureImporter:
       name: Run_3
       rect:
         serializedVersion: 2
-        x: 423
+        x: 424
         y: 0
-        width: 44
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 42
+        height: 60
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -212,12 +225,12 @@ TextureImporter:
       name: Run_4
       rect:
         serializedVersion: 2
-        x: 558
+        x: 559
         y: 0
-        width: 35
-        height: 63
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 33
+        height: 62
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -234,12 +247,12 @@ TextureImporter:
       name: Run_5
       rect:
         serializedVersion: 2
-        x: 677
+        x: 678
         y: 0
-        width: 41
-        height: 63
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 39
+        height: 62
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -256,12 +269,12 @@ TextureImporter:
       name: Run_6
       rect:
         serializedVersion: 2
-        x: 804
+        x: 805
         y: 0
-        width: 47
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 45
+        height: 61
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -278,12 +291,12 @@ TextureImporter:
       name: Run_7
       rect:
         serializedVersion: 2
-        x: 935
+        x: 936
         y: 0
-        width: 34
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 32
+        height: 61
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -300,7 +313,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: f5887a022a3b9f447814f63094abd578
     internalID: 0
     vertices: []
     indices: 
