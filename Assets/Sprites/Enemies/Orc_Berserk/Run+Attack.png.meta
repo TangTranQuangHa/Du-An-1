@@ -55,7 +55,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -125,8 +125,8 @@ TextureImporter:
         y: 0
         width: 43
         height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4215819, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -144,11 +144,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 120
-        y: 11
+        y: 12
         width: 40
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 66
+      alignment: 9
+      pivot: {x: 0.33842507, y: 0.033043586}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -169,8 +169,8 @@ TextureImporter:
         y: 7
         width: 47
         height: 68
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.61359423, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -189,10 +189,10 @@ TextureImporter:
         serializedVersion: 2
         x: 308
         y: 0
-        width: 56
+        width: 67
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.17286842, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -206,50 +206,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run+Attack_4
-      rect:
-        serializedVersion: 2
-        x: 356
-        y: 11
-        width: 11
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d9c17b502f0326b20800000000000000
-      internalID: 3126114907384650909
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Run+Attack_5
-      rect:
-        serializedVersion: 2
-        x: 365
-        y: 11
-        width: 11
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7c27ca4b9830d4e60800000000000000
-      internalID: 7948012807355396807
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Run+Attack_6
       rect:
         serializedVersion: 2
@@ -257,8 +213,8 @@ TextureImporter:
         y: 0
         width: 56
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.2139838, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -275,7 +231,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 4c24385c269a8734c89ed9c0db964689
     internalID: 0
     vertices: []
     indices: 

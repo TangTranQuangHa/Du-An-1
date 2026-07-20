@@ -58,7 +58,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -124,12 +124,12 @@ TextureImporter:
       name: Magic_1_0
       rect:
         serializedVersion: 2
-        x: 24
+        x: 25
         y: 0
-        width: 33
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 31
+        height: 63
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -146,12 +146,12 @@ TextureImporter:
       name: Magic_1_1
       rect:
         serializedVersion: 2
-        x: 123
+        x: 124
         y: 0
-        width: 31
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 29
+        height: 63
+      alignment: 9
+      pivot: {x: 0.17610852, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -168,12 +168,12 @@ TextureImporter:
       name: Magic_1_2
       rect:
         serializedVersion: 2
-        x: 219
+        x: 220
         y: 0
-        width: 33
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 31
+        height: 63
+      alignment: 9
+      pivot: {x: 0.14247328, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -190,12 +190,12 @@ TextureImporter:
       name: Magic_1_3
       rect:
         serializedVersion: 2
-        x: 315
+        x: 316
         y: 0
-        width: 36
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 34
+        height: 63
+      alignment: 9
+      pivot: {x: 0.1379556, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -212,12 +212,12 @@ TextureImporter:
       name: Magic_1_4
       rect:
         serializedVersion: 2
-        x: 411
+        x: 412
         y: 0
-        width: 38
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 36
+        height: 63
+      alignment: 9
+      pivot: {x: 0.13, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -234,12 +234,12 @@ TextureImporter:
       name: Magic_1_5
       rect:
         serializedVersion: 2
-        x: 507
+        x: 508
         y: 0
-        width: 41
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 39
+        height: 63
+      alignment: 9
+      pivot: {x: 0.109586276, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -256,12 +256,12 @@ TextureImporter:
       name: Magic_1_6
       rect:
         serializedVersion: 2
-        x: 600
+        x: 601
         y: 0
-        width: 44
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 42
+        height: 63
+      alignment: 9
+      pivot: {x: 0.18197486, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -278,12 +278,12 @@ TextureImporter:
       name: Magic_1_7
       rect:
         serializedVersion: 2
-        x: 696
+        x: 697
         y: 0
-        width: 49
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 47
+        height: 63
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -300,7 +300,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 70859f9a35ae4c4499634f332e0a76fb
     internalID: 0
     vertices: []
     indices: 

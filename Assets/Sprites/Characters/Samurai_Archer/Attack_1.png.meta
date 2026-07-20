@@ -52,7 +52,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -118,12 +118,12 @@ TextureImporter:
       name: Attack_1_0
       rect:
         serializedVersion: 2
-        x: 34
+        x: 35
         y: 0
-        width: 44
-        height: 68
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 42
+        height: 67
+      alignment: 9
+      pivot: {x: 0.07424627, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -140,12 +140,12 @@ TextureImporter:
       name: Attack_1_1
       rect:
         serializedVersion: 2
-        x: 162
+        x: 163
         y: 0
-        width: 44
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 42
+        height: 66
+      alignment: 9
+      pivot: {x: 0.07925524, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -162,12 +162,12 @@ TextureImporter:
       name: Attack_1_2
       rect:
         serializedVersion: 2
-        x: 287
+        x: 288
         y: 0
-        width: 51
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 49
+        height: 65
+      alignment: 9
+      pivot: {x: 0.13936132, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -184,12 +184,12 @@ TextureImporter:
       name: Attack_1_3
       rect:
         serializedVersion: 2
-        x: 416
+        x: 417
         y: 0
-        width: 92
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 96
+        height: 65
+      alignment: 9
+      pivot: {x: 0.06391557, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -203,37 +203,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_1_4
-      rect:
-        serializedVersion: 2
-        x: 499
-        y: 27
-        width: 13
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 87e7d9d0af0efcb20800000000000000
-      internalID: 3156989228384878200
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Attack_1_5
       rect:
         serializedVersion: 2
-        x: 544
+        x: 545
         y: 0
-        width: 67
-        height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 65
+        height: 64
+      alignment: 9
+      pivot: {x: 0.1180927, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -250,7 +228,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 9b55a4575bf2a6049a1d0a20dbd2c0d6
     internalID: 0
     vertices: []
     indices: 
