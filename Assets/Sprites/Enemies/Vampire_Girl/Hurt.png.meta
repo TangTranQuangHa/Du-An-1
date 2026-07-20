@@ -121,17 +121,10 @@ TextureImporter:
         serializedVersion: 2
         x: 38
         y: 0
-<<<<<<< Updated upstream:Assets/Sprites/Enemies/Vampire_Girl/Hurt.png.meta
-        width: 37
-        height: 70
-      alignment: 9
-      pivot: {x: 0.37215608, y: 0}
-=======
-        width: 35
-        height: 69
-      alignment: 9
-      pivot: {x: 0.3606804, y: 0.035334814}
->>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Vampire_Girl/Hurt.png.meta
+        width: 0
+        height: 0
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -144,44 +137,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Hurt_1
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 0
-<<<<<<< Updated upstream:Assets/Sprites/Enemies/Vampire_Girl/Hurt.png.meta
-        width: 38
-        height: 70
-      alignment: 9
-      pivot: {x: 0.44605938, y: 0}
-=======
-        width: 36
-        height: 69
-      alignment: 9
-      pivot: {x: 0.44130495, y: 0.009422727}
->>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Vampire_Girl/Hurt.png.meta
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3476ad19262dfc600800000000000000
-      internalID: 490842205202310979
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-<<<<<<< Updated upstream:Assets/Sprites/Enemies/Vampire_Girl/Hurt.png.meta
-    spriteID: 2bbbd43d0980fa1418bcd1087d9a8a03
-=======
-    spriteID: 3a0630323ac21d146b39fbadccd59c84
->>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Vampire_Girl/Hurt.png.meta
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -192,7 +152,6 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Hurt_0: -2048800907179887802
-      Hurt_1: 490842205202310979
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
