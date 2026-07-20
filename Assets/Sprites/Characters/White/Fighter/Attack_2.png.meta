@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4111b6b3f4e846a48a1e3c7bae481cf6
+guid: e14d0af6cb93ebc4a896e3c70c3f2151
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -11,15 +11,6 @@ TextureImporter:
   - first:
       213: -3526194569594660169
     second: Attack_2_2
-  - first:
-      213: 950650993592285724
-    second: Attack_2_3
-  - first:
-      213: 6371639423800154214
-    second: Attack_2_4
-  - first:
-      213: 3517966781153112992
-    second: Attack_2_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -131,11 +122,11 @@ TextureImporter:
       name: Attack_2_0
       rect:
         serializedVersion: 2
-        x: 47
+        x: 36
         y: 0
-        width: 0
-        height: 0
-      alignment: 0
+        width: 50
+        height: 82
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
