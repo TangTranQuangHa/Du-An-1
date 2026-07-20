@@ -102,6 +102,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -113,8 +126,13 @@ TextureImporter:
         y: 0
         width: 41
         height: 62
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Fighter/Dead.png.meta
       alignment: 6
       pivot: {x: 0, y: 0}
+=======
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Fighter/Dead.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -135,8 +153,13 @@ TextureImporter:
         y: 0
         width: 37
         height: 59
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Fighter/Dead.png.meta
       alignment: 6
       pivot: {x: 0, y: 0}
+=======
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Fighter/Dead.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -157,8 +180,13 @@ TextureImporter:
         y: 0
         width: 74
         height: 15
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Fighter/Dead.png.meta
       alignment: 6
       pivot: {x: 0, y: 0}
+=======
+      alignment: 9
+      pivot: {x: 0.04, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Fighter/Dead.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -175,7 +203,11 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Fighter/Dead.png.meta
     spriteID: 8307c7ca9c1acf34db5bc331f37a0c88
+=======
+    spriteID: 6c34f7b28b004da4989c74131ea833cf
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Fighter/Dead.png.meta
     internalID: 0
     vertices: []
     indices: 

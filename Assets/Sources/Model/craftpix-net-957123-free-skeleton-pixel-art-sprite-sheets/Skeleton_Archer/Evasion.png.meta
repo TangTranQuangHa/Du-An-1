@@ -52,7 +52,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -111,6 +111,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -118,12 +131,12 @@ TextureImporter:
       name: Evasion_0
       rect:
         serializedVersion: 2
-        x: 43
+        x: 44
         y: 0
-        width: 41
-        height: 59
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 39
+        height: 58
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -140,12 +153,12 @@ TextureImporter:
       name: Evasion_1
       rect:
         serializedVersion: 2
-        x: 171
+        x: 172
         y: 0
-        width: 41
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 39
+        height: 57
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -162,12 +175,12 @@ TextureImporter:
       name: Evasion_2
       rect:
         serializedVersion: 2
-        x: 297
+        x: 298
         y: 0
-        width: 42
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 40
+        height: 59
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -184,12 +197,12 @@ TextureImporter:
       name: Evasion_3
       rect:
         serializedVersion: 2
-        x: 417
-        y: 2
-        width: 44
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 418
+        y: 3
+        width: 42
+        height: 60
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -206,12 +219,12 @@ TextureImporter:
       name: Evasion_4
       rect:
         serializedVersion: 2
-        x: 554
+        x: 555
         y: 0
-        width: 45
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 43
+        height: 61
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -228,12 +241,12 @@ TextureImporter:
       name: Evasion_5
       rect:
         serializedVersion: 2
-        x: 683
+        x: 684
         y: 0
-        width: 45
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 43
+        height: 61
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -250,7 +263,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ac9fe16e1b6f0b240a0446947d02abc2
     internalID: 0
     vertices: []
     indices: 

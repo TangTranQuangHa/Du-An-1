@@ -105,6 +105,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -112,12 +125,19 @@ TextureImporter:
       name: Attack_3_0
       rect:
         serializedVersion: 2
-        x: 43
+        x: 44
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Converted_Vampire/Attack_3.png.meta
         width: 50
         height: 72
       alignment: 9
       pivot: {x: 0.086371616, y: 0}
+=======
+        width: 48
+        height: 71
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Converted_Vampire/Attack_3.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -134,12 +154,19 @@ TextureImporter:
       name: Attack_3_1
       rect:
         serializedVersion: 2
-        x: 172
+        x: 173
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Converted_Vampire/Attack_3.png.meta
         width: 46
         height: 71
       alignment: 9
       pivot: {x: 0.09601493, y: 0}
+=======
+        width: 44
+        height: 70
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Converted_Vampire/Attack_3.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -156,12 +183,19 @@ TextureImporter:
       name: Attack_3_2
       rect:
         serializedVersion: 2
-        x: 283
+        x: 284
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Converted_Vampire/Attack_3.png.meta
         width: 87
         height: 71
       alignment: 9
       pivot: {x: 0.21404994, y: 0}
+=======
+        width: 85
+        height: 70
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Converted_Vampire/Attack_3.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -178,12 +212,19 @@ TextureImporter:
       name: Attack_3_3
       rect:
         serializedVersion: 2
-        x: 412
+        x: 413
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Converted_Vampire/Attack_3.png.meta
         width: 87
         height: 71
       alignment: 9
       pivot: {x: 0.20371431, y: 0}
+=======
+        width: 85
+        height: 70
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Converted_Vampire/Attack_3.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -200,7 +241,11 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Converted_Vampire/Attack_3.png.meta
     spriteID: 93789d957cf408d4cb52a98eefa0a779
+=======
+    spriteID: 8eb10c67a0aaba544a775ff1717a3528
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Converted_Vampire/Attack_3.png.meta
     internalID: 0
     vertices: []
     indices: 

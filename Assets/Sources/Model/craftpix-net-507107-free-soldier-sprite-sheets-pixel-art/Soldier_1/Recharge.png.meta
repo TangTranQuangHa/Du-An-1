@@ -73,7 +73,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -132,6 +132,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -139,12 +152,12 @@ TextureImporter:
       name: Recharge_0
       rect:
         serializedVersion: 2
-        x: 42
+        x: 43
         y: 0
-        width: 45
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 43
+        height: 66
+      alignment: 9
+      pivot: {x: 0.18, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -161,12 +174,12 @@ TextureImporter:
       name: Recharge_1
       rect:
         serializedVersion: 2
-        x: 169
+        x: 170
         y: 0
-        width: 29
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 27
+        height: 81
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -183,12 +196,12 @@ TextureImporter:
       name: Recharge_2
       rect:
         serializedVersion: 2
-        x: 297
+        x: 298
         y: 0
-        width: 30
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 28
+        height: 81
+      alignment: 9
+      pivot: {x: 0.34, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -205,12 +218,12 @@ TextureImporter:
       name: Recharge_3
       rect:
         serializedVersion: 2
-        x: 425
+        x: 426
         y: 0
-        width: 32
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 30
+        height: 81
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -227,12 +240,12 @@ TextureImporter:
       name: Recharge_4
       rect:
         serializedVersion: 2
-        x: 553
+        x: 554
         y: 0
-        width: 41
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 39
+        height: 81
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -249,12 +262,12 @@ TextureImporter:
       name: Recharge_5
       rect:
         serializedVersion: 2
-        x: 681
+        x: 682
         y: 0
-        width: 29
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 27
+        height: 81
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -271,12 +284,12 @@ TextureImporter:
       name: Recharge_6
       rect:
         serializedVersion: 2
-        x: 809
+        x: 810
         y: 0
-        width: 29
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 27
+        height: 81
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -293,12 +306,12 @@ TextureImporter:
       name: Recharge_7
       rect:
         serializedVersion: 2
-        x: 937
+        x: 938
         y: 0
-        width: 29
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 27
+        height: 81
+      alignment: 9
+      pivot: {x: 0.32, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -315,12 +328,12 @@ TextureImporter:
       name: Recharge_8
       rect:
         serializedVersion: 2
-        x: 1065
+        x: 1066
         y: 0
-        width: 29
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 27
+        height: 81
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -337,12 +350,12 @@ TextureImporter:
       name: Recharge_9
       rect:
         serializedVersion: 2
-        x: 1193
+        x: 1194
         y: 0
-        width: 34
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 32
+        height: 81
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -359,12 +372,12 @@ TextureImporter:
       name: Recharge_10
       rect:
         serializedVersion: 2
-        x: 1321
+        x: 1322
         y: 0
-        width: 32
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 30
+        height: 81
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -381,12 +394,12 @@ TextureImporter:
       name: Recharge_11
       rect:
         serializedVersion: 2
-        x: 1449
+        x: 1450
         y: 0
-        width: 30
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 28
+        height: 81
+      alignment: 9
+      pivot: {x: 0.32, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -403,12 +416,12 @@ TextureImporter:
       name: Recharge_12
       rect:
         serializedVersion: 2
-        x: 1578
+        x: 1579
         y: 0
-        width: 45
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 43
+        height: 66
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -425,7 +438,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d672350012c9def41bbe4f5f757809cc
     internalID: 0
     vertices: []
     indices: 

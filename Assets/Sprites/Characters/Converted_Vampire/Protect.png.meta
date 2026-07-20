@@ -99,6 +99,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -106,12 +119,19 @@ TextureImporter:
       name: Protect_0
       rect:
         serializedVersion: 2
-        x: 39
+        x: 40
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Converted_Vampire/Protect.png.meta
         width: 52
         height: 74
       alignment: 9
       pivot: {x: 0.24529552, y: 0}
+=======
+        width: 50
+        height: 73
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Converted_Vampire/Protect.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -128,12 +148,19 @@ TextureImporter:
       name: Protect_1
       rect:
         serializedVersion: 2
-        x: 166
+        x: 167
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Converted_Vampire/Protect.png.meta
         width: 52
         height: 74
       alignment: 9
       pivot: {x: 0.26348817, y: 0}
+=======
+        width: 50
+        height: 73
+      alignment: 9
+      pivot: {x: 0.28, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Converted_Vampire/Protect.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -150,7 +177,11 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Converted_Vampire/Protect.png.meta
     spriteID: 2778681b224841943a386f9cf8725491
+=======
+    spriteID: 939e0e90cd1f5f64b8583d388173cf7f
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Converted_Vampire/Protect.png.meta
     internalID: 0
     vertices: []
     indices: 

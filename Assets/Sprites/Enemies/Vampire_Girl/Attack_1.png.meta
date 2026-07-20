@@ -111,6 +111,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -118,12 +131,19 @@ TextureImporter:
       name: Attack_1_0
       rect:
         serializedVersion: 2
-        x: 33
+        x: 34
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Vampire_Girl/Attack_1.png.meta
         width: 47
         height: 71
       alignment: 9
       pivot: {x: 0.36448354, y: 0}
+=======
+        width: 45
+        height: 70
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Vampire_Girl/Attack_1.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -140,12 +160,19 @@ TextureImporter:
       name: Attack_1_1
       rect:
         serializedVersion: 2
-        x: 159
+        x: 160
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Vampire_Girl/Attack_1.png.meta
         width: 49
         height: 71
       alignment: 9
       pivot: {x: 0.38530746, y: 0}
+=======
+        width: 47
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Vampire_Girl/Attack_1.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -162,12 +189,19 @@ TextureImporter:
       name: Attack_1_2
       rect:
         serializedVersion: 2
-        x: 284
+        x: 285
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Vampire_Girl/Attack_1.png.meta
         width: 53
         height: 71
       alignment: 9
       pivot: {x: 0.42224064, y: 0}
+=======
+        width: 51
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Vampire_Girl/Attack_1.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -184,12 +218,19 @@ TextureImporter:
       name: Attack_1_3
       rect:
         serializedVersion: 2
-        x: 430
+        x: 431
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Vampire_Girl/Attack_1.png.meta
         width: 56
         height: 65
       alignment: 9
       pivot: {x: 0.08931204, y: 0}
+=======
+        width: 50
+        height: 64
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Vampire_Girl/Attack_1.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -203,15 +244,47 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Vampire_Girl/Attack_1.png.meta
+=======
+      name: Attack_1_4
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 45
+        width: 10
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e7d9d0af0efcb20800000000000000
+      internalID: 3156989228384878200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Vampire_Girl/Attack_1.png.meta
       name: Attack_1_5
       rect:
         serializedVersion: 2
-        x: 558
+        x: 559
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Vampire_Girl/Attack_1.png.meta
         width: 50
         height: 64
       alignment: 9
       pivot: {x: 0.095363766, y: 0}
+=======
+        width: 48
+        height: 63
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Vampire_Girl/Attack_1.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -228,7 +301,11 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Vampire_Girl/Attack_1.png.meta
     spriteID: 26065658526c3f246be5f4439d49ab1f
+=======
+    spriteID: bcd31b4fc58791c44993bbc46c337e9e
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Vampire_Girl/Attack_1.png.meta
     internalID: 0
     vertices: []
     indices: 

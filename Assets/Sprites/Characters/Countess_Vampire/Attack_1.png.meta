@@ -111,6 +111,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -118,12 +131,19 @@ TextureImporter:
       name: Attack_1_0
       rect:
         serializedVersion: 2
-        x: 36
+        x: 37
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Countess_Vampire/Attack_1.png.meta
         width: 43
         height: 72
       alignment: 9
       pivot: {x: 0.5398409, y: 0}
+=======
+        width: 41
+        height: 71
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Countess_Vampire/Attack_1.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -140,12 +160,19 @@ TextureImporter:
       name: Attack_1_1
       rect:
         serializedVersion: 2
-        x: 163
+        x: 164
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Countess_Vampire/Attack_1.png.meta
         width: 44
         height: 72
       alignment: 9
       pivot: {x: 0.55111593, y: 0}
+=======
+        width: 42
+        height: 71
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Countess_Vampire/Attack_1.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -162,12 +189,19 @@ TextureImporter:
       name: Attack_1_2
       rect:
         serializedVersion: 2
-        x: 284
+        x: 285
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Countess_Vampire/Attack_1.png.meta
         width: 51
         height: 72
       alignment: 9
       pivot: {x: 0.6136283, y: 0}
+=======
+        width: 49
+        height: 71
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Countess_Vampire/Attack_1.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -184,12 +218,19 @@ TextureImporter:
       name: Attack_1_3
       rect:
         serializedVersion: 2
-        x: 412
+        x: 413
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Countess_Vampire/Attack_1.png.meta
         width: 51
         height: 72
       alignment: 9
       pivot: {x: 0.61695117, y: 0}
+=======
+        width: 49
+        height: 71
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Countess_Vampire/Attack_1.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -206,12 +247,19 @@ TextureImporter:
       name: Attack_1_4
       rect:
         serializedVersion: 2
-        x: 548
+        x: 549
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Countess_Vampire/Attack_1.png.meta
         width: 43
         height: 72
       alignment: 9
       pivot: {x: 0.5464946, y: 0}
+=======
+        width: 41
+        height: 71
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Countess_Vampire/Attack_1.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -228,12 +276,19 @@ TextureImporter:
       name: Attack_1_5
       rect:
         serializedVersion: 2
-        x: 676
+        x: 677
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Countess_Vampire/Attack_1.png.meta
         width: 56
         height: 72
       alignment: 9
       pivot: {x: 0.42137146, y: 0}
+=======
+        width: 54
+        height: 71
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Countess_Vampire/Attack_1.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -250,7 +305,11 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Countess_Vampire/Attack_1.png.meta
     spriteID: 70e9d6b984508aa4a961d78d259f44ec
+=======
+    spriteID: ab97cab085119c843868fa6cbd449ce8
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Countess_Vampire/Attack_1.png.meta
     internalID: 0
     vertices: []
     indices: 

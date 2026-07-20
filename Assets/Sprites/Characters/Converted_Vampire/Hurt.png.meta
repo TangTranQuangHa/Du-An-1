@@ -96,6 +96,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -103,12 +116,19 @@ TextureImporter:
       name: Hurt_0
       rect:
         serializedVersion: 2
-        x: 29
+        x: 30
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Converted_Vampire/Hurt.png.meta
         width: 51
         height: 77
       alignment: 9
       pivot: {x: 0.589658, y: 0}
+=======
+        width: 49
+        height: 76
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Converted_Vampire/Hurt.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -125,7 +145,11 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Converted_Vampire/Hurt.png.meta
     spriteID: aa752f8710dc74941a28cb2c24d124b3
+=======
+    spriteID: 2ad650eeedab543469c3218434a70879
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Converted_Vampire/Hurt.png.meta
     internalID: 0
     vertices: []
     indices: 

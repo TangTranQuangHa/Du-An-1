@@ -46,7 +46,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -105,6 +105,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -112,12 +125,12 @@ TextureImporter:
       name: Scream_0
       rect:
         serializedVersion: 2
-        x: 43
+        x: 44
         y: 0
-        width: 38
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 36
+        height: 68
+      alignment: 9
+      pivot: {x: 0.15, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -134,12 +147,12 @@ TextureImporter:
       name: Scream_1
       rect:
         serializedVersion: 2
-        x: 171
+        x: 172
         y: 0
-        width: 37
-        height: 68
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 35
+        height: 67
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -156,12 +169,12 @@ TextureImporter:
       name: Scream_2
       rect:
         serializedVersion: 2
-        x: 299
+        x: 300
         y: 0
-        width: 37
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 35
+        height: 66
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -178,12 +191,12 @@ TextureImporter:
       name: Scream_3
       rect:
         serializedVersion: 2
-        x: 427
+        x: 428
         y: 0
-        width: 37
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 35
+        height: 66
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -200,7 +213,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e11bae4cf67d4984fb3a04d5265727d4
     internalID: 0
     vertices: []
     indices: 

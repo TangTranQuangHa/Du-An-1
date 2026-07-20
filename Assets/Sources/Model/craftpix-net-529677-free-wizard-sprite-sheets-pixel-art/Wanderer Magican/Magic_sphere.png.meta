@@ -88,7 +88,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -147,6 +147,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -154,12 +167,12 @@ TextureImporter:
       name: Magic_sphere_0
       rect:
         serializedVersion: 2
-        x: 31
+        x: 32
         y: 0
-        width: 42
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 40
+        height: 63
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -176,12 +189,12 @@ TextureImporter:
       name: Magic_sphere_1
       rect:
         serializedVersion: 2
-        x: 162
+        x: 163
         y: 0
-        width: 46
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 44
+        height: 63
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -198,12 +211,12 @@ TextureImporter:
       name: Magic_sphere_2
       rect:
         serializedVersion: 2
-        x: 292
+        x: 293
         y: 0
-        width: 62
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 60
+        height: 65
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -220,12 +233,12 @@ TextureImporter:
       name: Magic_sphere_3
       rect:
         serializedVersion: 2
-        x: 420
+        x: 421
         y: 0
-        width: 62
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 60
+        height: 65
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -242,12 +255,12 @@ TextureImporter:
       name: Magic_sphere_4
       rect:
         serializedVersion: 2
-        x: 548
+        x: 549
         y: 0
-        width: 63
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 61
+        height: 65
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -264,12 +277,12 @@ TextureImporter:
       name: Magic_sphere_5
       rect:
         serializedVersion: 2
-        x: 676
+        x: 677
         y: 0
-        width: 64
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 62
+        height: 65
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -286,12 +299,12 @@ TextureImporter:
       name: Magic_sphere_6
       rect:
         serializedVersion: 2
-        x: 804
+        x: 805
         y: 0
-        width: 64
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 62
+        height: 65
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -308,12 +321,12 @@ TextureImporter:
       name: Magic_sphere_7
       rect:
         serializedVersion: 2
-        x: 932
+        x: 933
         y: 0
-        width: 61
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 59
+        height: 66
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -330,12 +343,12 @@ TextureImporter:
       name: Magic_sphere_8
       rect:
         serializedVersion: 2
-        x: 1060
+        x: 1061
         y: 0
-        width: 60
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 58
+        height: 65
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -352,12 +365,12 @@ TextureImporter:
       name: Magic_sphere_9
       rect:
         serializedVersion: 2
-        x: 1188
+        x: 1189
         y: 0
-        width: 45
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 43
+        height: 65
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -374,12 +387,12 @@ TextureImporter:
       name: Magic_sphere_10
       rect:
         serializedVersion: 2
-        x: 1235
-        y: 23
-        width: 15
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1236
+        y: 24
+        width: 13
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -396,12 +409,12 @@ TextureImporter:
       name: Magic_sphere_11
       rect:
         serializedVersion: 2
-        x: 1316
+        x: 1317
         y: 0
-        width: 39
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 37
+        height: 65
+      alignment: 9
+      pivot: {x: 0.08, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -418,12 +431,12 @@ TextureImporter:
       name: Magic_sphere_12
       rect:
         serializedVersion: 2
-        x: 1365
-        y: 24
-        width: 14
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1366
+        y: 25
+        width: 12
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -440,12 +453,12 @@ TextureImporter:
       name: Magic_sphere_13
       rect:
         serializedVersion: 2
-        x: 1445
+        x: 1446
         y: 0
-        width: 62
-        height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 60
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -462,12 +475,12 @@ TextureImporter:
       name: Magic_sphere_14
       rect:
         serializedVersion: 2
-        x: 1563
+        x: 1564
         y: 0
-        width: 77
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 75
+        height: 66
+      alignment: 9
+      pivot: {x: 0.15, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -484,12 +497,12 @@ TextureImporter:
       name: Magic_sphere_15
       rect:
         serializedVersion: 2
-        x: 1687
+        x: 1688
         y: 0
-        width: 69
-        height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 67
+        height: 64
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -506,12 +519,12 @@ TextureImporter:
       name: Magic_sphere_16
       rect:
         serializedVersion: 2
-        x: 1815
+        x: 1816
         y: 0
-        width: 76
-        height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 74
+        height: 64
+      alignment: 9
+      pivot: {x: 0.23, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -528,12 +541,12 @@ TextureImporter:
       name: Magic_sphere_17
       rect:
         serializedVersion: 2
-        x: 1952
+        x: 1953
         y: 0
-        width: 60
-        height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 58
+        height: 64
+      alignment: 9
+      pivot: {x: 0.15, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -550,7 +563,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 00414554a9cac4843b2418e0e34013e5
     internalID: 0
     vertices: []
     indices: 

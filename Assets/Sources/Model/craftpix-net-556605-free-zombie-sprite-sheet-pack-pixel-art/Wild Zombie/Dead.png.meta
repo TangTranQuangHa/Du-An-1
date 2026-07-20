@@ -49,7 +49,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -108,6 +108,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -115,12 +128,12 @@ TextureImporter:
       name: Dead_0
       rect:
         serializedVersion: 2
-        x: 17
+        x: 18
         y: 0
-        width: 47
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 45
+        height: 45
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -137,12 +150,12 @@ TextureImporter:
       name: Dead_1
       rect:
         serializedVersion: 2
-        x: 113
+        x: 114
         y: 0
-        width: 47
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 45
+        height: 46
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -159,12 +172,12 @@ TextureImporter:
       name: Dead_2
       rect:
         serializedVersion: 2
-        x: 209
+        x: 210
         y: 0
-        width: 65
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 63
+        height: 43
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -181,12 +194,12 @@ TextureImporter:
       name: Dead_3
       rect:
         serializedVersion: 2
-        x: 309
+        x: 310
         y: 0
-        width: 72
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 70
+        height: 26
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -203,12 +216,12 @@ TextureImporter:
       name: Dead_4
       rect:
         serializedVersion: 2
-        x: 405
+        x: 406
         y: 0
-        width: 75
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 74
+        height: 10
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -225,7 +238,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ef625e0946de57f4a8b7c27ce1971d1e
     internalID: 0
     vertices: []
     indices: 

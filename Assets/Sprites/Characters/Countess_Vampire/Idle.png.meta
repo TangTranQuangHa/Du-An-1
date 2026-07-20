@@ -108,6 +108,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -115,12 +128,19 @@ TextureImporter:
       name: Idle_0
       rect:
         serializedVersion: 2
-        x: 37
+        x: 38
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Countess_Vampire/Idle.png.meta
         width: 54
         height: 71
       alignment: 9
       pivot: {x: 0.44449446, y: 0}
+=======
+        width: 52
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Countess_Vampire/Idle.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -137,12 +157,19 @@ TextureImporter:
       name: Idle_1
       rect:
         serializedVersion: 2
-        x: 165
+        x: 166
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Countess_Vampire/Idle.png.meta
         width: 54
         height: 72
       alignment: 9
       pivot: {x: 0.44449475, y: 0}
+=======
+        width: 52
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Countess_Vampire/Idle.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -159,12 +186,19 @@ TextureImporter:
       name: Idle_2
       rect:
         serializedVersion: 2
-        x: 293
+        x: 294
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Countess_Vampire/Idle.png.meta
         width: 54
         height: 73
       alignment: 9
       pivot: {x: 0.4375565, y: 0}
+=======
+        width: 52
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Countess_Vampire/Idle.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -181,12 +215,19 @@ TextureImporter:
       name: Idle_3
       rect:
         serializedVersion: 2
-        x: 421
+        x: 422
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Countess_Vampire/Idle.png.meta
         width: 54
         height: 74
       alignment: 9
       pivot: {x: 0.44449475, y: 0}
+=======
+        width: 52
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Countess_Vampire/Idle.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -203,12 +244,19 @@ TextureImporter:
       name: Idle_4
       rect:
         serializedVersion: 2
-        x: 549
+        x: 550
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Countess_Vampire/Idle.png.meta
         width: 54
         height: 73
       alignment: 9
       pivot: {x: 0.4514341, y: 0}
+=======
+        width: 52
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Countess_Vampire/Idle.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -225,7 +273,11 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Countess_Vampire/Idle.png.meta
     spriteID: 630b19274f5458b4c975600185642fde
+=======
+    spriteID: 2f2ed643478f7d84fb1be27cabbabaf7
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Countess_Vampire/Idle.png.meta
     internalID: 0
     vertices: []
     indices: 

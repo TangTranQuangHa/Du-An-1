@@ -105,6 +105,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -117,7 +130,11 @@ TextureImporter:
         width: 36
         height: 81
       alignment: 9
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Fighter/Attack_1.png.meta
       pivot: {x: 0.12533675, y: 0}
+=======
+      pivot: {x: 0.1, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Fighter/Attack_1.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -139,7 +156,11 @@ TextureImporter:
         width: 37
         height: 81
       alignment: 9
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Fighter/Attack_1.png.meta
       pivot: {x: 0.11116028, y: 0}
+=======
+      pivot: {x: 0.1, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Fighter/Attack_1.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -161,7 +182,11 @@ TextureImporter:
         width: 53
         height: 82
       alignment: 9
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Fighter/Attack_1.png.meta
       pivot: {x: 0.058886833, y: 0}
+=======
+      pivot: {x: 0.07, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Fighter/Attack_1.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -183,7 +208,11 @@ TextureImporter:
         width: 57
         height: 83
       alignment: 9
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Fighter/Attack_1.png.meta
       pivot: {x: 0.0740667, y: 0}
+=======
+      pivot: {x: 0.1, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Fighter/Attack_1.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -200,7 +229,11 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Fighter/Attack_1.png.meta
     spriteID: 6c8f12cd38e1ee647a9fced43cb798fd
+=======
+    spriteID: 14125f42e1f79ff48b45add8f52dcd61
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Fighter/Attack_1.png.meta
     internalID: 0
     vertices: []
     indices: 

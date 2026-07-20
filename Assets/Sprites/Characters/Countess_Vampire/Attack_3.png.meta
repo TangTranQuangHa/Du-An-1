@@ -96,6 +96,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -103,12 +116,19 @@ TextureImporter:
       name: Attack_3_0
       rect:
         serializedVersion: 2
-        x: 36
+        x: 37
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Countess_Vampire/Attack_3.png.meta
         width: 58
         height: 72
       alignment: 9
       pivot: {x: 0.3885406, y: 0}
+=======
+        width: 56
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Countess_Vampire/Attack_3.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -125,7 +145,11 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Countess_Vampire/Attack_3.png.meta
     spriteID: 2d1afa21ee44dbe48a0f94c1b70a338a
+=======
+    spriteID: 610daa9aa98a5684ca0385b1172d1e35
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Countess_Vampire/Attack_3.png.meta
     internalID: 0
     vertices: []
     indices: 

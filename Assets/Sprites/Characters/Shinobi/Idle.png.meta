@@ -111,6 +111,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -118,12 +131,19 @@ TextureImporter:
       name: Idle_0
       rect:
         serializedVersion: 2
-        x: 49
+        x: 50
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Shinobi/Idle.png.meta
         width: 38
         height: 80
       alignment: 9
       pivot: {x: 0.13322419, y: 0}
+=======
+        width: 36
+        height: 79
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Shinobi/Idle.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -140,12 +160,19 @@ TextureImporter:
       name: Idle_1
       rect:
         serializedVersion: 2
-        x: 177
+        x: 178
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Shinobi/Idle.png.meta
         width: 38
         height: 80
       alignment: 9
       pivot: {x: 0.13322449, y: 0}
+=======
+        width: 36
+        height: 79
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Shinobi/Idle.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -162,12 +189,19 @@ TextureImporter:
       name: Idle_2
       rect:
         serializedVersion: 2
-        x: 304
+        x: 305
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Shinobi/Idle.png.meta
         width: 39
         height: 80
       alignment: 9
       pivot: {x: 0.18874183, y: 0}
+=======
+        width: 37
+        height: 79
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Shinobi/Idle.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -184,12 +218,19 @@ TextureImporter:
       name: Idle_3
       rect:
         serializedVersion: 2
-        x: 433
+        x: 434
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Shinobi/Idle.png.meta
         width: 38
         height: 80
       alignment: 9
       pivot: {x: 0.15688686, y: 0}
+=======
+        width: 36
+        height: 79
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Shinobi/Idle.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -206,12 +247,19 @@ TextureImporter:
       name: Idle_4
       rect:
         serializedVersion: 2
-        x: 561
+        x: 562
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Shinobi/Idle.png.meta
         width: 38
         height: 80
       alignment: 9
       pivot: {x: 0.13322529, y: 0}
+=======
+        width: 36
+        height: 79
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Shinobi/Idle.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -228,12 +276,19 @@ TextureImporter:
       name: Idle_5
       rect:
         serializedVersion: 2
-        x: 689
+        x: 690
         y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Shinobi/Idle.png.meta
         width: 38
         height: 80
       alignment: 9
       pivot: {x: 0.16871884, y: 0}
+=======
+        width: 36
+        height: 79
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Shinobi/Idle.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -250,7 +305,11 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Shinobi/Idle.png.meta
     spriteID: 5283053d61f75674699fba6b30c94459
+=======
+    spriteID: 854eeea03abefbc469fcf15281a98329
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Shinobi/Idle.png.meta
     internalID: 0
     vertices: []
     indices: 

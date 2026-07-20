@@ -99,6 +99,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -106,12 +119,21 @@ TextureImporter:
       name: Shield_0
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Samurai/Shield.png.meta
         x: 35
         y: 0
         width: 65
         height: 78
       alignment: 9
       pivot: {x: 0.0827696, y: 0}
+=======
+        x: 40
+        y: 0
+        width: 48
+        height: 79
+      alignment: 9
+      pivot: {x: 0.47, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Samurai/Hurt.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -128,12 +150,21 @@ TextureImporter:
       name: Shield_1
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Samurai/Shield.png.meta
         x: 163
         y: 0
         width: 59
         height: 78
       alignment: 9
       pivot: {x: 0.09378827, y: 0}
+=======
+        x: 168
+        y: 0
+        width: 48
+        height: 77
+      alignment: 9
+      pivot: {x: 0.48, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Samurai/Hurt.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -150,7 +181,11 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Samurai/Shield.png.meta
     spriteID: 95d572e97a1b7c24b8479325aca55044
+=======
+    spriteID: d81157ecbb71baa458c39ed955df1527
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Samurai/Hurt.png.meta
     internalID: 0
     vertices: []
     indices: 

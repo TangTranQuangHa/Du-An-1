@@ -46,7 +46,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -105,6 +105,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -112,12 +125,12 @@ TextureImporter:
       name: Attack 3_0
       rect:
         serializedVersion: 2
-        x: 19
+        x: 20
         y: 0
-        width: 50
-        height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -134,12 +147,12 @@ TextureImporter:
       name: Attack 3_1
       rect:
         serializedVersion: 2
-        x: 144
+        x: 145
         y: 0
-        width: 51
-        height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 49
+        height: 64
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -156,12 +169,12 @@ TextureImporter:
       name: Attack 3_2
       rect:
         serializedVersion: 2
-        x: 275
+        x: 276
         y: 0
-        width: 87
-        height: 63
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 85
+        height: 62
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -178,12 +191,12 @@ TextureImporter:
       name: Attack 3_3
       rect:
         serializedVersion: 2
-        x: 403
+        x: 404
         y: 0
-        width: 82
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 80
+        height: 59
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -200,7 +213,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d63b22a7036837848b541243ff31a566
     internalID: 0
     vertices: []
     indices: 
