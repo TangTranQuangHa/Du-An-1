@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: afa5261f3e039e646bec9d86dd45017e
+guid: 9e819fc0e652be94580045d9a9def752
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -11,15 +11,6 @@ TextureImporter:
   - first:
       213: -1132038362817505424
     second: Attack_3_2
-  - first:
-      213: -6574224857763752514
-    second: Attack_3_3
-  - first:
-      213: -6827800710642968084
-    second: Attack_3_4
-  - first:
-      213: 5388459929022106953
-    second: Attack_3_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -52,7 +43,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -118,12 +109,12 @@ TextureImporter:
       name: Attack_3_0
       rect:
         serializedVersion: 2
-        x: 30
+        x: 21
         y: 0
-        width: 47
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 81
+        height: 76
+      alignment: 9
+      pivot: {x: 0.23912326, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -140,12 +131,12 @@ TextureImporter:
       name: Attack_3_1
       rect:
         serializedVersion: 2
-        x: 135
+        x: 151
         y: 0
-        width: 69
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 102
+        height: 76
+      alignment: 9
+      pivot: {x: 0.17823029, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -162,12 +153,12 @@ TextureImporter:
       name: Attack_3_2
       rect:
         serializedVersion: 2
-        x: 274
+        x: 279
         y: 0
-        width: 89
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 103
+        height: 76
+      alignment: 9
+      pivot: {x: 0.15952902, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -180,77 +171,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Attack_3_3
-      rect:
-        serializedVersion: 2
-        x: 356
-        y: 40
-        width: 8
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eb5d277d259a3c4a0800000000000000
-      internalID: -6574224857763752514
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack_3_4
-      rect:
-        serializedVersion: 2
-        x: 359
-        y: 35
-        width: 12
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ce957fccd67ce31a0800000000000000
-      internalID: -6827800710642968084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack_3_5
-      rect:
-        serializedVersion: 2
-        x: 402
-        y: 0
-        width: 78
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 94d0ac391c7a7ca40800000000000000
-      internalID: 5388459929022106953
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 2ffafb9d4ab11be42b5b02b7dea7abea
     internalID: 0
     vertices: []
     indices: 
@@ -263,9 +188,6 @@ TextureImporter:
       Attack_3_0: -8910899737472627771
       Attack_3_1: -5464336490339650859
       Attack_3_2: -1132038362817505424
-      Attack_3_3: -6574224857763752514
-      Attack_3_4: -6827800710642968084
-      Attack_3_5: 5388459929022106953
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

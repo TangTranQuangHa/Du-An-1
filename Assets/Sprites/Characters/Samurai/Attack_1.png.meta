@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 59237116a49126d499c7a5ab4392135d
+guid: 14d092a1508d499488dc4f84e22b03dc
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -17,6 +17,15 @@ TextureImporter:
   - first:
       213: 3156989228384878200
     second: Attack_1_4
+  - first:
+      213: -4176445809780997858
+    second: Attack_1_5
+  - first:
+      213: 9111255474114485651
+    second: Attack_1_6
+  - first:
+      213: -6197699949570948299
+    second: Attack_1_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -49,7 +58,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -117,10 +126,10 @@ TextureImporter:
         serializedVersion: 2
         x: 22
         y: 0
-        width: 53
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 55
+        height: 75
+      alignment: 9
+      pivot: {x: 0.34419104, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -137,12 +146,12 @@ TextureImporter:
       name: Attack_1_1
       rect:
         serializedVersion: 2
-        x: 150
+        x: 151
         y: 0
-        width: 53
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 54
+        height: 74
+      alignment: 9
+      pivot: {x: 0.33520198, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -159,12 +168,12 @@ TextureImporter:
       name: Attack_1_2
       rect:
         serializedVersion: 2
-        x: 274
+        x: 279
         y: 0
-        width: 99
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 59
+        height: 74
+      alignment: 9
+      pivot: {x: 0.30447698, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -181,12 +190,12 @@ TextureImporter:
       name: Attack_1_3
       rect:
         serializedVersion: 2
-        x: 359
-        y: 27
-        width: 16
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 407
+        y: 0
+        width: 65
+        height: 75
+      alignment: 9
+      pivot: {x: 0.27688786, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -203,12 +212,12 @@ TextureImporter:
       name: Attack_1_4
       rect:
         serializedVersion: 2
-        x: 402
+        x: 534
         y: 0
-        width: 95
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 103
+        height: 75
+      alignment: 9
+      pivot: {x: 0.18634507, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -221,11 +230,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Attack_1_7
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 0
+        width: 56
+        height: 75
+      alignment: 9
+      pivot: {x: 0.31165966, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5330e519bb85df9a0800000000000000
+      internalID: -6197699949570948299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: af3c67141f9e45245913bbea7eaece51
     internalID: 0
     vertices: []
     indices: 
@@ -240,6 +271,9 @@ TextureImporter:
       Attack_1_2: -8053095777402275025
       Attack_1_3: 4688295478533005478
       Attack_1_4: 3156989228384878200
+      Attack_1_5: -4176445809780997858
+      Attack_1_6: 9111255474114485651
+      Attack_1_7: -6197699949570948299
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
