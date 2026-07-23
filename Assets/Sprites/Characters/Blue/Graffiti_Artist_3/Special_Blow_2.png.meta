@@ -541,28 +541,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Special_Blow_2_45
-      rect:
-        serializedVersion: 2
-        x: 2014
-        y: 89
-        width: 6
-        height: 7
-      alignment: 9
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 99de4eb38f6247e40800000000000000
-      internalID: 5653186279855418777
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Special_Blow_2_50
       rect:
         serializedVersion: 2

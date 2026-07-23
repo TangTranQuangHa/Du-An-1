@@ -157,6 +157,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -430,7 +443,7 @@ TextureImporter:
         serializedVersion: 2
         x: 1548
         y: 0
-        width: 42
+        width: 110
         height: 62
       alignment: 9
       pivot: {x: 0.1, y: 0}
@@ -442,94 +455,6 @@ TextureImporter:
       bones: []
       spriteID: cd247a7a799629100800000000000000
       internalID: 113269040711418588
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Light_charge_13
-      rect:
-        serializedVersion: 2
-        x: 1599
-        y: 47
-        width: 14
-        height: 6
-      alignment: 9
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d020a955837367da0800000000000000
-      internalID: -5947505542802308595
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Light_charge_14
-      rect:
-        serializedVersion: 2
-        x: 1614
-        y: 51
-        width: 7
-        height: 5
-      alignment: 9
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 520392f53c9e71b50800000000000000
-      internalID: 6563972007240216613
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Light_charge_15
-      rect:
-        serializedVersion: 2
-        x: 1617
-        y: 45
-        width: 6
-        height: 6
-      alignment: 9
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b13893259bd339af0800000000000000
-      internalID: -390900876493356261
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Light_charge_16
-      rect:
-        serializedVersion: 2
-        x: 1625
-        y: 44
-        width: 30
-        height: 10
-      alignment: 9
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1fba6d2567e3d2f80800000000000000
-      internalID: -8129773074417013775
       vertices: []
       indices: 
       edges: []
