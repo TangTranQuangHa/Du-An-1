@@ -383,28 +383,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Special_Blow_1_8
-      rect:
-        serializedVersion: 2
-        x: 1977
-        y: 74
-        width: 8
-        height: 10
-      alignment: 9
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 165e7b437cbf5e930800000000000000
-      internalID: 4172017462830163297
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Special_Blow_1_10
       rect:
         serializedVersion: 2
@@ -444,28 +422,6 @@ TextureImporter:
       bones: []
       spriteID: 2f5cede2cfd9bcc00800000000000000
       internalID: 922004255171069426
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Special_Blow_1_15
-      rect:
-        serializedVersion: 2
-        x: 2490
-        y: 76
-        width: 7
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ccd7a5affa5729db0800000000000000
-      internalID: -4786634055261454900
       vertices: []
       indices: 
       edges: []
