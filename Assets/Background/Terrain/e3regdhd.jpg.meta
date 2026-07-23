@@ -129,10 +129,16 @@ TextureImporter:
       name: e3regdhd_0
       rect:
         serializedVersion: 2
-        x: 0
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Destroyer/Enabling.png.meta
+        x: 41
         y: 0
+<<<<<<< HEAD:Assets/Background/Terrain/e3regdhd.jpg.meta
         width: 1080
         height: 607
+=======
+        width: 32
+        height: 79
+>>>>>>> parent of 2e5e948 (Merge pull request #6 from TangTranQuangHa/N.T.Duan):Assets/Sprites/Enemies/Destroyer/Enabling.png.meta
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -147,11 +153,112 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Enabling_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 43
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dee6abe296ff8e80800000000000000
+      internalID: -8174043687774916911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enabling_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 51
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+=======
+        x: 25
+        y: 0
+        width: 49
+        height: 74
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Samurai/Dead.png.meta
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Destroyer/Enabling.png.meta
+      spriteID: 9aa5c3ea1f2de1d50800000000000000
+      internalID: 6710032430280759977
+=======
+      spriteID: 33123f4e07626c420800000000000000
+      internalID: 2649847697073447219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 52
+        height: 58
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc50d84dfa4b7ec80800000000000000
+      internalID: -8293461521501190705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 75
+        height: 10
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6dfca117e4c59e0800000000000000
+      internalID: -1631342717326862633
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Samurai/Dead.png.meta
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 57e5618b356a46946ac41486f14f7933
     internalID: 0
     vertices: []
     indices: 
@@ -161,7 +268,13 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+<<<<<<< HEAD:Assets/Background/Terrain/e3regdhd.jpg.meta
       e3regdhd_0: -4627773676700657490
+=======
+      Enabling_0: -1388148281507062235
+      Enabling_1: -8174043687774916911
+      Enabling_2: 6710032430280759977
+>>>>>>> parent of 2e5e948 (Merge pull request #6 from TangTranQuangHa/N.T.Duan):Assets/Sprites/Enemies/Destroyer/Enabling.png.meta
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

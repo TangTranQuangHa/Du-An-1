@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: 6fd239c7ac29ca24991aab7e89156397
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2048800907179887802
+    second: Hurt_0
+  - first:
+      213: 490842205202310979
+    second: Hurt_1
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hurt_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Shinobi/Hurt.png.meta
+        width: 38
+        height: 76
+      alignment: 9
+      pivot: {x: 0.11826214, y: 0}
+=======
+        width: 36
+        height: 75
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Shinobi/Hurt.png.meta
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6437b001e623193e0800000000000000
+      internalID: -2048800907179887802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Shinobi/Hurt.png.meta
+        width: 37
+        height: 76
+      alignment: 9
+<<<<<<< HEAD:Assets/Sprites/Characters/White/City_men_1/Hurt.png.meta
+      pivot: {x: 0.2, y: 0}
+=======
+      pivot: {x: 0.120729186, y: 1}
+=======
+        width: 35
+        height: 75
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Shinobi/Hurt.png.meta
+>>>>>>> parent of 2e5e948 (Merge pull request #6 from TangTranQuangHa/N.T.Duan):Assets/Sprites/Characters/Shinobi/Hurt.png.meta
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3476ad19262dfc600800000000000000
+      internalID: 490842205202310979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+<<<<<<< HEAD:Assets/Sprites/Characters/White/City_men_1/Hurt.png.meta
+    - serializedVersion: 2
+      name: Hurt_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 36
+        height: 63
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe46ae44bbdf6a439243bdb484b05bf
+      internalID: 1248211108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 39
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841d8ed0928aedd41977d0c8f538ca4c
+      internalID: 1019012019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+=======
+>>>>>>> parent of 2e5e948 (Merge pull request #6 from TangTranQuangHa/N.T.Duan):Assets/Sprites/Characters/Shinobi/Hurt.png.meta
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+<<<<<<< HEAD:Assets/Sprites/Characters/White/City_men_1/Hurt.png.meta
+    spriteID: 09a2a6070006a144e82591c97210877a
+=======
+<<<<<<< Updated upstream:Assets/Sprites/Characters/Shinobi/Hurt.png.meta
+    spriteID: ce37f15da264b904f815dbdb20b448ae
+=======
+    spriteID: fbcff6e2abd8695428b812555b69f673
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-453698-free-shinobi-sprites-pixel-art/Shinobi/Hurt.png.meta
+>>>>>>> parent of 2e5e948 (Merge pull request #6 from TangTranQuangHa/N.T.Duan):Assets/Sprites/Characters/Shinobi/Hurt.png.meta
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hurt_0: -152200289
+      Hurt_1: 490842205202310979
+<<<<<<< HEAD:Assets/Sprites/Characters/White/City_men_1/Hurt.png.meta
+      Hurt_2: -300517480
+      Hurt_3: 1248211108
+      Hurt_4: 1019012019
+      Hurt_5: 1552738213
+      Hurt_6: -722931739
+=======
+>>>>>>> parent of 2e5e948 (Merge pull request #6 from TangTranQuangHa/N.T.Duan):Assets/Sprites/Characters/Shinobi/Hurt.png.meta
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

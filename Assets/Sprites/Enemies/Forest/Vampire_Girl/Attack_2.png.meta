@@ -146,10 +146,23 @@ TextureImporter:
         serializedVersion: 2
         x: 47
         y: 0
+<<<<<<< HEAD:Assets/Sprites/Enemies/Forest/Vampire_Girl/Attack_2.png.meta
+=======
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Vampire_Girl/Attack_2.png.meta
+        width: 38
+        height: 64
+      alignment: 9
+      pivot: {x: 0.121392906, y: 0}
+=======
+>>>>>>> parent of 2e5e948 (Merge pull request #6 from TangTranQuangHa/N.T.Duan):Assets/Sprites/Enemies/Vampire_Girl/Attack_2.png.meta
         width: 36
         height: 63
       alignment: 9
       pivot: {x: 0.1, y: 0}
+<<<<<<< HEAD:Assets/Sprites/Enemies/Forest/Vampire_Girl/Attack_2.png.meta
+=======
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Vampire_Girl/Attack_2.png.meta
+>>>>>>> parent of 2e5e948 (Merge pull request #6 from TangTranQuangHa/N.T.Duan):Assets/Sprites/Enemies/Vampire_Girl/Attack_2.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -168,18 +181,38 @@ TextureImporter:
         serializedVersion: 2
         x: 175
         y: 0
+<<<<<<< HEAD:Assets/Sprites/Enemies/Forest/Vampire_Girl/Attack_2.png.meta
+=======
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Vampire_Girl/Attack_2.png.meta
+        width: 35
+        height: 64
+      alignment: 9
+      pivot: {x: 0.14888698, y: 0}
+=======
+>>>>>>> parent of 2e5e948 (Merge pull request #6 from TangTranQuangHa/N.T.Duan):Assets/Sprites/Enemies/Vampire_Girl/Attack_2.png.meta
         width: 33
         height: 63
       alignment: 9
       pivot: {x: 0.1, y: 0}
+<<<<<<< HEAD:Assets/Sprites/Enemies/Forest/Vampire_Girl/Attack_2.png.meta
+=======
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Vampire_Girl/Attack_2.png.meta
+>>>>>>> parent of 2e5e948 (Merge pull request #6 from TangTranQuangHa/N.T.Duan):Assets/Sprites/Enemies/Vampire_Girl/Attack_2.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
+<<<<<<< HEAD:Assets/Sprites/Enemies/Forest/Vampire_Girl/Attack_2.png.meta
       tessellationDetail: 0
       bones: []
       spriteID: 409d13c9231d4c045aa249d62631970c
       internalID: 1374616077
+=======
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6dfe8791ade5b80800000000000000
+      internalID: -8404040051688745268
+>>>>>>> parent of 2e5e948 (Merge pull request #6 from TangTranQuangHa/N.T.Duan):Assets/Sprites/Enemies/Vampire_Girl/Attack_2.png.meta
       vertices: []
       indices: 
       edges: []
@@ -190,40 +223,132 @@ TextureImporter:
         serializedVersion: 2
         x: 293
         y: 0
+<<<<<<< HEAD:Assets/Sprites/Enemies/Forest/Vampire_Girl/Attack_2.png.meta
         width: 70
         height: 69
       alignment: 9
       pivot: {x: 0.2, y: 0}
+=======
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Vampire_Girl/Attack_2.png.meta
+        width: 49
+        height: 70
+      alignment: 9
+      pivot: {x: 0.27979013, y: 0}
+=======
+        width: 47
+        height: 69
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Vampire_Girl/Attack_2.png.meta
+>>>>>>> parent of 2e5e948 (Merge pull request #6 from TangTranQuangHa/N.T.Duan):Assets/Sprites/Enemies/Vampire_Girl/Attack_2.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
+<<<<<<< HEAD:Assets/Sprites/Enemies/Forest/Vampire_Girl/Attack_2.png.meta
       tessellationDetail: 0
       bones: []
       spriteID: 973e4f3f5843f7e49af13d2888d44c9e
       internalID: -793268099
+=======
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba1666b8b0701fc0800000000000000
+      internalID: -3526194569594660169
+>>>>>>> parent of 2e5e948 (Merge pull request #6 from TangTranQuangHa/N.T.Duan):Assets/Sprites/Enemies/Vampire_Girl/Attack_2.png.meta
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< HEAD:Assets/Sprites/Enemies/Forest/Vampire_Girl/Attack_2.png.meta
+=======
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Vampire_Girl/Attack_2.png.meta
+=======
+      name: Attack_2_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 30
+        width: 4
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ab07aba04613d00800000000000000
+      internalID: 950650993592285724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_2_4
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 35
+        width: 10
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6689b7c2c4c9c6850800000000000000
+      internalID: 6371639423800154214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Vampire_Girl/Attack_2.png.meta
+>>>>>>> parent of 2e5e948 (Merge pull request #6 from TangTranQuangHa/N.T.Duan):Assets/Sprites/Enemies/Vampire_Girl/Attack_2.png.meta
       name: Attack_2_5
       rect:
         serializedVersion: 2
         x: 421
         y: 0
+<<<<<<< HEAD:Assets/Sprites/Enemies/Forest/Vampire_Girl/Attack_2.png.meta
         width: 45
         height: 71
       alignment: 9
       pivot: {x: 0.25, y: 0}
+=======
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Vampire_Girl/Attack_2.png.meta
+        width: 47
+        height: 72
+      alignment: 9
+      pivot: {x: 0.28955144, y: 0}
+=======
+        width: 45
+        height: 71
+      alignment: 9
+      pivot: {x: 0.26, y: 0}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Vampire_Girl/Attack_2.png.meta
+>>>>>>> parent of 2e5e948 (Merge pull request #6 from TangTranQuangHa/N.T.Duan):Assets/Sprites/Enemies/Vampire_Girl/Attack_2.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
+<<<<<<< HEAD:Assets/Sprites/Enemies/Forest/Vampire_Girl/Attack_2.png.meta
       tessellationDetail: 0
       bones: []
       spriteID: 18f3fdf8d5182a941b2a6c6cf1ca423b
       internalID: 1267448242
+=======
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a37142062452d030800000000000000
+      internalID: 3517966781153112992
+>>>>>>> parent of 2e5e948 (Merge pull request #6 from TangTranQuangHa/N.T.Duan):Assets/Sprites/Enemies/Vampire_Girl/Attack_2.png.meta
       vertices: []
       indices: 
       edges: []
@@ -232,7 +357,15 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< HEAD:Assets/Sprites/Enemies/Forest/Vampire_Girl/Attack_2.png.meta
     spriteID: 152e3e789e4ec2c468d896c12c773fa5
+=======
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Vampire_Girl/Attack_2.png.meta
+    spriteID: 083025d04f4b23b449518ddd4bab3bcf
+=======
+    spriteID: c65a5a80a29374346908ae05f8348f4a
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Vampire_Girl/Attack_2.png.meta
+>>>>>>> parent of 2e5e948 (Merge pull request #6 from TangTranQuangHa/N.T.Duan):Assets/Sprites/Enemies/Vampire_Girl/Attack_2.png.meta
     internalID: 0
     vertices: []
     indices: 
@@ -243,11 +376,19 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Attack_2_0: -837275676153275556
+<<<<<<< HEAD:Assets/Sprites/Enemies/Forest/Vampire_Girl/Attack_2.png.meta
       Attack_2_1: 1374616077
       Attack_2_2: -793268099
       Attack_2_3: 1122375996
       Attack_2_4: 886690226
       Attack_2_5: 1267448242
+=======
+      Attack_2_1: -8404040051688745268
+      Attack_2_2: -3526194569594660169
+      Attack_2_3: 950650993592285724
+      Attack_2_4: 6371639423800154214
+      Attack_2_5: 3517966781153112992
+>>>>>>> parent of 2e5e948 (Merge pull request #6 from TangTranQuangHa/N.T.Duan):Assets/Sprites/Enemies/Vampire_Girl/Attack_2.png.meta
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

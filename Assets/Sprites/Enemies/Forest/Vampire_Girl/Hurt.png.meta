@@ -134,10 +134,24 @@ TextureImporter:
         serializedVersion: 2
         x: 38
         y: 0
+<<<<<<< HEAD:Assets/Sprites/Enemies/Forest/Vampire_Girl/Hurt.png.meta
         width: 35
         height: 69
       alignment: 9
       pivot: {x: 0.4, y: 0}
+=======
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Vampire_Girl/Hurt.png.meta
+        width: 37
+        height: 70
+      alignment: 9
+      pivot: {x: 0.37215608, y: 0}
+=======
+        width: 35
+        height: 69
+      alignment: 9
+      pivot: {x: 0.3606804, y: 0.035334814}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Vampire_Girl/Hurt.png.meta
+>>>>>>> parent of 2e5e948 (Merge pull request #6 from TangTranQuangHa/N.T.Duan):Assets/Sprites/Enemies/Vampire_Girl/Hurt.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -156,18 +170,39 @@ TextureImporter:
         serializedVersion: 2
         x: 165
         y: 0
+<<<<<<< HEAD:Assets/Sprites/Enemies/Forest/Vampire_Girl/Hurt.png.meta
         width: 36
         height: 69
       alignment: 9
       pivot: {x: 0.4, y: 0}
+=======
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Vampire_Girl/Hurt.png.meta
+        width: 38
+        height: 70
+      alignment: 9
+      pivot: {x: 0.44605938, y: 0}
+=======
+        width: 36
+        height: 69
+      alignment: 9
+      pivot: {x: 0.44130495, y: 0.009422727}
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Vampire_Girl/Hurt.png.meta
+>>>>>>> parent of 2e5e948 (Merge pull request #6 from TangTranQuangHa/N.T.Duan):Assets/Sprites/Enemies/Vampire_Girl/Hurt.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
+<<<<<<< HEAD:Assets/Sprites/Enemies/Forest/Vampire_Girl/Hurt.png.meta
       tessellationDetail: 0
       bones: []
       spriteID: e68caaacc3433d24698cf2c60e3262b3
       internalID: -1866003900
+=======
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3476ad19262dfc600800000000000000
+      internalID: 490842205202310979
+>>>>>>> parent of 2e5e948 (Merge pull request #6 from TangTranQuangHa/N.T.Duan):Assets/Sprites/Enemies/Vampire_Girl/Hurt.png.meta
       vertices: []
       indices: 
       edges: []
@@ -176,7 +211,15 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< HEAD:Assets/Sprites/Enemies/Forest/Vampire_Girl/Hurt.png.meta
     spriteID: 9bfcd2b25f27db04596204d81e8a3424
+=======
+<<<<<<< Updated upstream:Assets/Sprites/Enemies/Vampire_Girl/Hurt.png.meta
+    spriteID: 2bbbd43d0980fa1418bcd1087d9a8a03
+=======
+    spriteID: 3a0630323ac21d146b39fbadccd59c84
+>>>>>>> Stashed changes:Assets/Sources/Model/craftpix-net-506778-free-vampire-pixel-art-sprite-sheets/Vampire_Girl/Hurt.png.meta
+>>>>>>> parent of 2e5e948 (Merge pull request #6 from TangTranQuangHa/N.T.Duan):Assets/Sprites/Enemies/Vampire_Girl/Hurt.png.meta
     internalID: 0
     vertices: []
     indices: 
@@ -187,7 +230,11 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Hurt_0: -2048800907179887802
+<<<<<<< HEAD:Assets/Sprites/Enemies/Forest/Vampire_Girl/Hurt.png.meta
       Hurt_1: -1866003900
+=======
+      Hurt_1: 490842205202310979
+>>>>>>> parent of 2e5e948 (Merge pull request #6 from TangTranQuangHa/N.T.Duan):Assets/Sprites/Enemies/Vampire_Girl/Hurt.png.meta
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
