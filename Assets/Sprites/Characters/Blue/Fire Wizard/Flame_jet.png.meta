@@ -169,97 +169,22 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
-    - serializedVersion: 2
-      name: Flame_jet_0
-      rect:
-        serializedVersion: 2
-        x: 998
-        y: 72
-        width: 11
-        height: 7
-      alignment: 9
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4c7a799dcdac1eda0800000000000000
-      internalID: -5917225385495910460
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Flame_jet_1
-      rect:
-        serializedVersion: 2
-        x: 1122
-        y: 72
-        width: 8
-        height: 5
-      alignment: 9
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 80187180937e6d550800000000000000
-      internalID: 6185385370374865160
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Flame_jet_2
-      rect:
-        serializedVersion: 2
-        x: 1130
-        y: 74
-        width: 10
-        height: 7
-      alignment: 9
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4c441ace688d7f7d0800000000000000
-      internalID: -2884598962300304188
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Flame_jet_3
-      rect:
-        serializedVersion: 2
-        x: 1252
-        y: 66
-        width: 10
-        height: 11
-      alignment: 9
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3b38061c03356a870800000000000000
-      internalID: 8693727599553184691
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: Flame_jet_4
       rect:
@@ -267,7 +192,7 @@ TextureImporter:
         x: 1292
         y: 0
         width: 115
-        height: 77
+        height: 83
       alignment: 9
       pivot: {x: 0.03, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -443,7 +368,7 @@ TextureImporter:
         x: 908
         y: 0
         width: 115
-        height: 72
+        height: 84
       alignment: 9
       pivot: {x: 0.03, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -465,7 +390,7 @@ TextureImporter:
         x: 1036
         y: 0
         width: 115
-        height: 67
+        height: 85
       alignment: 9
       pivot: {x: 0.03, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -487,7 +412,7 @@ TextureImporter:
         x: 1164
         y: 0
         width: 115
-        height: 58
+        height: 80
       alignment: 9
       pivot: {x: 0.03, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -508,8 +433,8 @@ TextureImporter:
         serializedVersion: 2
         x: 1420
         y: 0
-        width: 53
-        height: 58
+        width: 118
+        height: 67
       alignment: 9
       pivot: {x: 0.04, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -525,35 +450,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flame_jet_16
-      rect:
-        serializedVersion: 2
-        x: 1476
-        y: 40
-        width: 55
-        height: 21
-      alignment: 9
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5f903752f100eb700800000000000000
-      internalID: 557883537612802549
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Flame_jet_17
       rect:
         serializedVersion: 2
         x: 1548
         y: 0
-        width: 53
-        height: 58
+        width: 119
+        height: 67
       alignment: 9
       pivot: {x: 0.06, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -569,57 +472,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flame_jet_18
-      rect:
-        serializedVersion: 2
-        x: 1615
-        y: 46
-        width: 27
-        height: 13
-      alignment: 9
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bad9c2a73ae17a470800000000000000
-      internalID: 8405720916988566955
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Flame_jet_19
-      rect:
-        serializedVersion: 2
-        x: 1645
-        y: 52
-        width: 12
-        height: 6
-      alignment: 9
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2ca3199a0ec6ed390800000000000000
-      internalID: -7791670593131038014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Flame_jet_20
       rect:
         serializedVersion: 2
         x: 1676
         y: 0
-        width: 105
-        height: 66
+        width: 112
+        height: 73
       alignment: 9
       pivot: {x: 0.03, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

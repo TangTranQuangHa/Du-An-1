@@ -121,6 +121,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -155,15 +168,15 @@ TextureImporter:
         width: 41
         height: 61
       alignment: 9
-      pivot: {x: 0.36031175, y: -0.00000004098363}
+      pivot: {x: 0.35, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1f6b92202d6bf5cc0800000000000000
-      internalID: -3720053754089064719
+      spriteID: fdc24f362556c0e40a9f5e9cae866d9c
+      internalID: -1339756125
       vertices: []
       indices: 
       edges: []
@@ -172,20 +185,20 @@ TextureImporter:
       name: Hurt_3
       rect:
         serializedVersion: 2
-        x: 291
+        x: 292
         y: 0
-        width: 42
+        width: 41
         height: 60
       alignment: 9
-      pivot: {x: 0.40352377, y: 0}
+      pivot: {x: 0.35, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ff88d2f14d9b86e40800000000000000
-      internalID: 5649970053243570431
+      spriteID: 8d6400ea66dac994193a1c54223bd72f
+      internalID: 367031305
       vertices: []
       indices: 
       edges: []
@@ -194,7 +207,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 9ce3d38f427cb7b40a835a347c146680
+    spriteID: fc2d422dbb3593b4396aa672fe139c01
     internalID: 0
     vertices: []
     indices: 
@@ -205,10 +218,10 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Hurt_0: -2048800907179887802
-      Hurt_1: 490842205202310979
-      Hurt_2: -3720053754089064719
-      Hurt_3: 5649970053243570431
-      Hurt_4: -371187646486735994
+      Hurt_1: -732907366
+      Hurt_2: -1339756125
+      Hurt_3: 367031305
+      Hurt_4: -890079050
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

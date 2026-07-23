@@ -160,6 +160,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -384,28 +397,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shot_11
-      rect:
-        serializedVersion: 2
-        x: 1254
-        y: 55
-        width: 4
-        height: 5
-      alignment: 9
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b18780700e69c6390800000000000000
-      internalID: -7823712563714557925
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Shot_12
       rect:
         serializedVersion: 2
@@ -428,28 +419,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shot_13
-      rect:
-        serializedVersion: 2
-        x: 1385
-        y: 58
-        width: 4
-        height: 4
-      alignment: 9
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f022da06acbe5c860800000000000000
-      internalID: 7549699604794384911
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Shot_14
       rect:
         serializedVersion: 2
@@ -467,50 +436,6 @@ TextureImporter:
       bones: []
       spriteID: 08d4dce8732877300800000000000000
       internalID: 249811479472983424
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Shot_15
-      rect:
-        serializedVersion: 2
-        x: 1255
-        y: 46
-        width: 5
-        height: 6
-      alignment: 9
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 97ce1c984dbd1a840800000000000000
-      internalID: 5233705947871964281
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Shot_16
-      rect:
-        serializedVersion: 2
-        x: 1257
-        y: 51
-        width: 10
-        height: 4
-      alignment: 9
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b98d6fe01760c0200800000000000000
-      internalID: 147499970448513179
       vertices: []
       indices: 
       edges: []
