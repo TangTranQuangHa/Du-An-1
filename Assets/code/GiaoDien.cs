@@ -19,6 +19,10 @@ public class GiaoDien : MonoBehaviour
     {
         SceneManager.LoadScene("Recruit");
     }
+    public void LoadScene5()
+    {
+        SceneManager.LoadScene("Heroes");
+    }
     public void LoadScene4()
     {
         SceneManager.LoadScene("MainMenu");
