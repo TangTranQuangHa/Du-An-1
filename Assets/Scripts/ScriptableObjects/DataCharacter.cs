@@ -7,4 +7,5 @@ public class DataCharacter : ScriptableObject
     public string Describe;
     public float Health;
     public float Damage;
+    public Rarity _rarity;
 }
