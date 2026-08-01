@@ -250,6 +250,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   backgroundSprites:
   - {fileID: -8890527879219870032, guid: 7cf358c515e6dfa459b7f60d0df6e08e, type: 3}
+  - {fileID: -6513743853152151312, guid: 9302cf65e610fe34baa29802684ab024, type: 3}
 --- !u!114 &1467336292
 MonoBehaviour:
   m_ObjectHideFlags: 0
