@@ -9,6 +9,7 @@ public class DataItem : ScriptableObject
     //
     public string Name;
     // describe the item
+    [TextAreaAttribute]
     public string Description;
     //
     public Rarity _rarity;
