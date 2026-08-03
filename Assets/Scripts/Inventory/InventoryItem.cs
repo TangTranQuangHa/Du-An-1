@@ -39,3 +39,6 @@ public class InventoryItem :
         image.raycastTarget = true;
     }
 }
+
+
+
