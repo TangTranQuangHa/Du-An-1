@@ -6135,9 +6135,7 @@ Transform:
   - {fileID: 2020738822}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< Updated upstream
 --- !u!1 &1057588912
-=======
 --- !u!1 &985384435
 GameObject:
   m_ObjectHideFlags: 0
@@ -6927,7 +6925,6 @@ Transform:
   m_Father: {fileID: 1865593921}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1082791871
->>>>>>> Stashed changes
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -7142,9 +7139,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
 --- !u!4 &1057588915
-=======
 --- !u!95 &1115107293
 Animator:
   serializedVersion: 7
@@ -7184,13 +7179,11 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1122056566
->>>>>>> Stashed changes
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
   m_GameObject: {fileID: 1057588912}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
@@ -7199,7 +7192,6 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 640250433}
-=======
   m_GameObject: {fileID: 1122056565}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
@@ -7951,7 +7943,6 @@ Transform:
   m_Children:
   - {fileID: 1732544977}
   m_Father: {fileID: 1430543763}
->>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1367464407
 GameObject:
@@ -13368,3 +13359,4 @@ SceneRoots:
   - {fileID: 661598480}
   - {fileID: 2129187786}
   - {fileID: 91054875}
+
