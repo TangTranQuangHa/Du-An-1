@@ -42,7 +42,7 @@
         "**/*.mat": true,
         "**/*.meta": true,
         "**/*.prefab": true,
-        "**/*.unity": true,
+        "**/*.unity": false,
         "build/": true,
         "Build/": true,
         "Library/": true,
@@ -60,13 +60,19 @@
         "*.asset": "yaml",
         "*.meta": "yaml",
         "*.prefab": "yaml",
-        "*.unity": "yaml",
+        "*.unity": "yaml"
     },
     "explorer.fileNesting.enabled": true,
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Du-An-1.slnx",
-    "dotnet.enableWorkspaceBasedDevelopment": false
+    "dotnet.defaultSolution": "Du An 1.slnx",
+    "dotnet.enableWorkspaceBasedDevelopment": false,
+    "yaml.schemas": {
+        "file:///f%3A/Users/lemon/.vscode/extensions/xraph.game-framework-yaml-1.2.14/schemas/game-config.schema.json": [
+            "*.game.yml",
+            ".game.yml"
+        ]
+    }
 }
