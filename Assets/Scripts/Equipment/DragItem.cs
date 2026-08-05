@@ -23,6 +23,9 @@ public class DragItem : MonoBehaviour,
 
         // Ghost không chặn Raycast
         ghost.GetComponent<Image>().raycastTarget = false;
+
+        // Ghost đi theo chuột
+        ghost.transform.position = Input.mousePosition;
     }
 
     public void OnDrag(PointerEventData eventData)
