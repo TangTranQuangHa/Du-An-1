@@ -3,33 +3,27 @@ using UnityEngine;
 
 public class ItemManager : MonoBehaviour
 {
-    // Danh sách toàn bộ Item trong game
-    public List<DataItem> ItemOrigins = new List<DataItem>();
+    // Toàn bộ Item trong game
+    public List<DataItem> ItemOrigins = new();
 
-    // Danh sách Item người chơi đang sở hữu
-    public List<DataItem> EquippedItems = new List<DataItem>();
+    // Item người chơi sở hữu
+    public List<DataItem> ownedItems = new();
 
-    // Thêm Item vào kho của người chơi
+    // Thêm Item
     public void AddItem(DataItem item)
     {
         if (item == null)
             return;
 
-        EquippedItems.Add(item);
-
-        Debug.Log($"Đã thêm {item.Name}");
+        ownedItems.Add(item);
     }
 
-    // Xóa Item khỏi kho
+    // Xóa Item
     public void SubItem(DataItem item)
     {
         if (item == null)
             return;
 
-        if (EquippedItems.Contains(item))
-        {
-            EquippedItems.Remove(item);
-            Debug.Log($"Đã xóa {item.Name}");
-        }
+        ownedItems.Remove(item);
     }
 }
