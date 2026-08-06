@@ -34,7 +34,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.6294136, y: -37.97121}
+  m_AnchoredPosition: {x: -26.7, y: -48.3}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &3141215668806585044
@@ -170,10 +170,10 @@ RectTransform:
   m_LocalScale: {x: 1.7142004, y: 2.2970283, z: 1.7142004}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 6101243716659837885}
   - {fileID: 5361099985751509146}
   - {fileID: 2638377105572811599}
   - {fileID: 5577556901665848375}
-  - {fileID: 6101243716659837885}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -365,14 +365,14 @@ RectTransform:
   m_GameObject: {fileID: 4596041937478209967}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.32323244, y: 0.17396057, z: 0.32323244}
+  m_LocalScale: {x: 0.36208498, y: 0.19487064, z: 0.36208498}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 6619771689180244967}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 10.6, y: -25.4}
+  m_AnchoredPosition: {x: 11.4, y: -32.4}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2051575900619977184
@@ -469,7 +469,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: -157.00522, w: 0}
+  m_margin: {x: 0, y: 0, z: -53.837555, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -509,7 +509,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 42.52918, y: -38.371037}
+  m_AnchoredPosition: {x: 39.3, y: -48.5}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1091937264238340437
