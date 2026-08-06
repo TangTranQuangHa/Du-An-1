@@ -38,10 +38,13 @@ public class HeroManager : MonoBehaviour
     // Update Hero
     public void UpdateHeroEquip(HeroEquip updateHero)
     {
-        ownedHeroEquips[
-            ownedHeroEquips
-                .FindIndex(hero => hero.data.ID == updateHero.data.ID)]
-        = updateHero;
+        int index = ownedHeroEquips.FindIndex(
+            hero => hero.data.ID == updateHero.data.ID);
+
+        if (index >= 0)
+        {
+            ownedHeroEquips[index] = updateHero;
+        }
     }
 
     // Get Hero
