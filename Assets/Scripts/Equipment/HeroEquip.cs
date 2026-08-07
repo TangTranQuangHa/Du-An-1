@@ -17,4 +17,9 @@ public class HeroEquip
         item_1 = null;
         item_2 = null;
     }
+
+    public HeroEquip Clone()
+    {
+        return (HeroEquip)this.MemberwiseClone();
+    }
 }

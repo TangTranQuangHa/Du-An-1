@@ -2,42 +2,26 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-public class DragItem : MonoBehaviour,
-    IBeginDragHandler,
-    IDragHandler,
-    IEndDragHandler
+public class DragItem : CommonDrag
 {
-    [SerializeField] private GameObject ghost;
     [SerializeField] private DataItem data;
-    [SerializeField] private Canvas canvas;
 
     public DataItem Data => data;
 
-    public void OnBeginDrag(PointerEventData eventData)
+    public override void SetGhostRectTransform()
     {
-        // Tạo Ghost từ Item hiện tại
-        ghost = Instantiate(gameObject);
+        var rt = ghost.GetComponent<RectTransform>();
+        rt.sizeDelta = new Vector2(100, 100);
 
-        // Đưa Ghost lên Canvas
-        ghost.transform.SetParent(canvas.transform, false);
+        // Anchor to middle center
+        rt.anchorMin = new Vector2(0.5f, 0.5f);
+        rt.anchorMax = new Vector2(0.5f, 0.5f);
 
-        // Ghost không chặn Raycast
-        ghost.GetComponent<Image>().raycastTarget = false;
+        // Optional: set pivot to center as well
+        rt.pivot = new Vector2(0.5f, 0.5f);
 
-        // Ghost đi theo chuột
-        ghost.transform.position = Input.mousePosition;
-    }
+        // Reset position so it aligns correctly
+        rt.anchoredPosition = Vector2.zero;
 
-    public void OnDrag(PointerEventData eventData)
-    {
-        // Ghost đi theo chuột
-        ghost.transform.position = Input.mousePosition;
-    }
-
-    public void OnEndDrag(PointerEventData eventData)
-    {
-        // Xóa Ghost
-        Destroy(ghost);
-        ghost = null;
     }
 }

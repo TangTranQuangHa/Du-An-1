@@ -5,35 +5,41 @@ using UnityEngine.EventSystems;
 public class SlotHero : MonoBehaviour, IDropHandler
 {
     [SerializeField]
-    private SlotHero dragCurrent;
-    public SlotHero DragCurrent
+    private DragHero dragCurrent;
+    public DragHero DragCurrent
     {
         get
         {
             return dragCurrent;
         }
     }
-    public event Action<SlotHero, SlotHero> OnCharacterAssigned;
+    public event Action<SlotHero, DragHero> OnCharacterAssigned;
+    
     public void OnDrop(PointerEventData eventData)
     {
-        GameObject dragObject = eventData.pointerDrag;
+        Debug.Log("OnDrop called on SlotHero");
+        // GameObject dragObject = eventData.pointerDrag;
 
-        if (dragObject == null)
-        {
-            return;
-        }
+        // if (dragObject == null)
+        // {
+        //     return;
+        // }
 
-        SlotHero drag = dragObject.GetComponent<SlotHero>();
-
+        // DragHero drag = eventData.pointerDrag.GetComponent<DragHero>();
+        DragHero drag = eventData.pointerDrag.GetComponent<DragHero>()
+            ?? eventData.pointerDrag.GetComponentInChildren<DragHero>()
+            ?? eventData.pointerDrag.GetComponentInParent<DragHero>();
         if (drag == null)
         {
             return;
         }
 
+        //drag.transform.position = transform.position;
+
         CharacterAssigned(drag);
     }
 
-    private void CharacterAssigned(SlotHero drag)
+    private void CharacterAssigned(DragHero drag)
     {
         if (OnCharacterAssigned != null)
         {
@@ -41,8 +47,8 @@ public class SlotHero : MonoBehaviour, IDropHandler
         }
     }
 
-    public void SetCharacter(SlotHero dragCharacter)
+    public void SetCharacter(DragHero dragHero)
     {
-        dragCurrent = dragCharacter;
+        dragCurrent = dragHero;
     }
 }
