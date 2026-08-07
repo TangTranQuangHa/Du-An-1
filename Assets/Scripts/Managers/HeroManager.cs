@@ -20,6 +20,8 @@ public class HeroManager : MonoBehaviour
         foreach (DataHero hero in allHeroes)
         {
             allHeroEquips.Add(new HeroEquip(hero));
+            // test
+            ownedHeroEquips.Add(new HeroEquip(hero));
         }
     }
 

@@ -2,30 +2,24 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-public class DragHero : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandler
+public class DragHero : CommonDrag
 {
-    [SerializeField] GameObject ghost;
-    [SerializeField] Canvas canvas;
-    private void Awake()
+    public override void SetGhostRectTransform()
     {
-        if (canvas == null)
-            Debug.LogWarning("canvas doesn't exit");
-    }
-    public void OnBeginDrag(PointerEventData eventData)
-    {
-        if (ghost != null) return;
-        ghost = Instantiate(gameObject);
-        ghost.transform.SetParent(canvas.transform);
-        ghost.GetComponent<Image>().raycastTarget = false;
-    }
+        var rt = ghost.GetComponent<RectTransform>();
+        rt.sizeDelta = new Vector2(150, 130);
 
-    public void OnDrag(PointerEventData eventData)
-    {
-        ghost.transform.position = Input.mousePosition;
-    }
+        // Anchor to middle center
+        rt.anchorMin = new Vector2(0.5f, 0.5f);
+        rt.anchorMax = new Vector2(0.5f, 0.5f);
 
-    public void OnEndDrag(PointerEventData eventData)
-    {
-        Destroy(ghost);
+        // Optional: set pivot to center as well
+        rt.pivot = new Vector2(0.5f, 0.5f);
+
+        // Reset position so it aligns correctly
+        rt.anchoredPosition = Vector2.zero;
+
+        // Scale the ghost to match the original size
+        rt.localScale = new Vector3(1.8f, 2.5f, 1);
     }
 }

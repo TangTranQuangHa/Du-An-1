@@ -14,6 +14,7 @@ public class SlotItem : MonoBehaviour, IDropHandler
 
     public void OnDrop(PointerEventData eventData)
     {
+        Debug.Log("OnDrop called on SlotItem");
         DragItem drag = eventData.pointerDrag.GetComponent<DragItem>();
 
         if (drag == null)
