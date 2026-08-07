@@ -1,3 +1,4 @@
+using TMPro;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
@@ -27,6 +28,21 @@ public abstract class CommonDrag :
 
         // Ghost không chặn Raycast
         ghost.GetComponent<Image>().raycastTarget = false;
+        // các con của Ghost cũng vậy
+        for (int i = ghost.transform.childCount - 1; i >= 0; i--)
+        {
+            var childImage = ghost.transform.GetChild(i).gameObject.GetComponent<Image>();
+            if (childImage != null)
+            {
+                childImage.raycastTarget = false;
+            }
+
+            var childTMP = ghost.transform.GetChild(i).gameObject.GetComponent<TextMeshProUGUI>();
+            if (childTMP != null)
+            {
+                childTMP.raycastTarget = false;
+            }
+        }
 
         ghost.transform.localScale = Vector3.one;
 
