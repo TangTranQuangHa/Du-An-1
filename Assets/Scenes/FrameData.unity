@@ -482,6 +482,7 @@ GameObject:
   - component: {fileID: 357300355}
   - component: {fileID: 357300357}
   - component: {fileID: 357300356}
+  - component: {fileID: 357300358}
   m_Layer: 5
   m_Name: Content
   m_TagString: Untagged
@@ -576,6 +577,18 @@ MonoBehaviour:
   m_Spacing: {x: 150, y: 200}
   m_Constraint: 1
   m_ConstraintCount: 3
+--- !u!114 &357300358
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 357300354}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3270951f36300d1479d29db39c81a4ca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!224 &364446017 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 2981759554628139010, guid: 0f63d10adba4b5e4794bec8cc911ece3, type: 3}
@@ -715,7 +728,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 759016669}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1315050433}
+        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
+        m_MethodName: Save
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &759016669
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1477,6 +1502,17 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 38720566426187237, guid: 72ca15afcf1a5ee40b8a3435614c6ec6, type: 3}
   m_PrefabInstance: {fileID: 6180673969495863004}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1315050433 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 409310210926910379, guid: e71ade6dc9a618242b0b86da25d00498, type: 3}
+  m_PrefabInstance: {fileID: 192776853}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e8cde1bfb8035b48a722bca53cb017c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1318949127
 GameObject:
   m_ObjectHideFlags: 0
@@ -1635,6 +1671,7 @@ GameObject:
   - component: {fileID: 1762166128}
   - component: {fileID: 1762166130}
   - component: {fileID: 1762166129}
+  - component: {fileID: 1762166131}
   m_Layer: 5
   m_Name: Content
   m_TagString: Untagged
@@ -1714,11 +1751,23 @@ MonoBehaviour:
     m_Bottom: 33
   m_ChildAlignment: 1
   m_StartCorner: 0
-  m_StartAxis: 1
+  m_StartAxis: 0
   m_CellSize: {x: 100, y: 100}
   m_Spacing: {x: 33, y: 33}
   m_Constraint: 1
   m_ConstraintCount: 6
+--- !u!114 &1762166131
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1762166127}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13e268cf1b05bba41b1ce4277571633a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1798258043
 GameObject:
   m_ObjectHideFlags: 0

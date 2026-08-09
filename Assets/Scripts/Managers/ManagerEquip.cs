@@ -84,6 +84,7 @@ public class ManagerEquip : Singleton<ManagerEquip>
                 var itemUI = Instantiate(item, slotItem.transform);
                 itemUI.transform.localPosition = Vector3.zero;
                 var newDragItem = itemUI.GetComponent<DragItem>();
+                newDragItem.SetItemRectTransform();
                 if (newDragItem != null)
                 {
                     slotItem.SetItem(newDragItem);
@@ -112,10 +113,8 @@ public class ManagerEquip : Singleton<ManagerEquip>
     
     private void MoveTheDragged(CommonDrag drag, Transform parent)
     {
-        Transform frame = drag.transform.parent;
-
-        frame.SetParent(parent);
-        frame.localPosition = Vector3.zero;
+        drag.transform.SetParent(parent);
+        drag.transform.localPosition = Vector3.zero;
     }
 
     private void UpdateDataEquip(DragItem dragItem, EquipSlotType equipSlotType)
