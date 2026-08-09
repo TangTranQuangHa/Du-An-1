@@ -18,6 +18,17 @@ public class HeroEquip
         item_2 = null;
     }
 
+    public HeroEquip(
+        DataHero heroData,
+        DataItem? item1,
+        DataItem? item2
+    )
+    {
+        data = heroData;
+        item_1 = item1;
+        item_2 = item2;
+    }
+
     public HeroEquip Clone()
     {
         return (HeroEquip)this.MemberwiseClone();

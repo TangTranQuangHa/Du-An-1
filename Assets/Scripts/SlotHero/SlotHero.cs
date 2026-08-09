@@ -18,23 +18,12 @@ public class SlotHero : MonoBehaviour, IDropHandler
     public void OnDrop(PointerEventData eventData)
     {
         Debug.Log("OnDrop called on SlotHero");
-        // GameObject dragObject = eventData.pointerDrag;
-
-        // if (dragObject == null)
-        // {
-        //     return;
-        // }
-
-        // DragHero drag = eventData.pointerDrag.GetComponent<DragHero>();
-        DragHero drag = eventData.pointerDrag.GetComponent<DragHero>()
-            ?? eventData.pointerDrag.GetComponentInChildren<DragHero>()
-            ?? eventData.pointerDrag.GetComponentInParent<DragHero>();
+        
+        DragHero drag = eventData.pointerDrag.GetComponent<DragHero>();
         if (drag == null)
         {
             return;
         }
-
-        //drag.transform.position = transform.position;
 
         CharacterAssigned(drag);
     }

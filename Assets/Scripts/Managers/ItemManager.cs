@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 
 public class ItemManager : MonoBehaviour
@@ -25,5 +26,20 @@ public class ItemManager : MonoBehaviour
             return;
 
         ownedItems.Remove(item);
+    }
+
+    public void ClearOwnedItems()
+    {
+        ownedItems.Clear();
+    }
+
+    public DataItem GetDataItemByID(int ID)
+    {
+        return ItemOrigins.FirstOrDefault(io => io.ID == ID);
+    }
+
+    public List<int> GetOwnedItemIDs()
+    {
+        return ownedItems.Select(oi => oi.ID).ToList();
     }
 }
