@@ -47,20 +47,22 @@ public class BattleEnd : MonoBehaviour
         }
 
         BattleReward reward =
-            GameManager.Instance.rewardManager.GenerateReward(
+            gameManager.rewardManager.GenerateReward(
                 day,
                 sceneName
             );
 
         foreach (DataItem item in reward.Items)
         {
-            GameManager.Instance.itemManager.AddItem(item);
+            gameManager.itemManager.AddItem(item);
         }
 
-        GameManager.Instance.survivalManager.PassDay(
+        gameManager.survivalManager.PassDay(
             reward.Meat,
             reward.Water
         );
+
+        gameManager.Save();
 
         SceneManager.LoadScene("Gameplay");
     }
