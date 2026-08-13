@@ -4,14 +4,16 @@ using UnityEngine;
 
 public class HeroManager : MonoBehaviour
 {
-    public HeroEquip heroEquip;
+    /*public HeroEquip heroEquip;*/
     public List<HeroEquip> ownedHeroEquips = new List<HeroEquip>();
     public List<HeroEquip> allHeroEquips = new List<HeroEquip>();
     [SerializeField] private List<DataHero> allHeroes = new List<DataHero>();
-
-    private void Start()
+    [SerializeField] private DataHero GiftHero_1;
+    [SerializeField] private DataHero GiftHero_2;
+    private void Awake()
     {
         SetAllHeroEquips();
+        GiveStarterHeroes();
     }
 
     //Set Reserve Heroes
@@ -20,9 +22,13 @@ public class HeroManager : MonoBehaviour
         foreach (DataHero hero in allHeroes)
         {
             allHeroEquips.Add(new HeroEquip(hero));
-            // test
-            ownedHeroEquips.Add(new HeroEquip(hero));
         }
+    }
+    //Gift For Beginer
+    private void GiveStarterHeroes()
+    {
+        ownedHeroEquips.Add(allHeroEquips.FirstOrDefault(hero => hero.data.ID == GiftHero_1.ID));
+        ownedHeroEquips.Add(allHeroEquips.FirstOrDefault(hero => hero.data.ID == GiftHero_2.ID));
     }
 
     public void AddNewHero(HeroEquip newHero)
@@ -53,5 +59,16 @@ public class HeroManager : MonoBehaviour
     public HeroEquip TakeHero(int ID)
     {
         return ownedHeroEquips.FirstOrDefault(hero => hero.data.ID == ID);
+    }
+
+    // Get
+    public List<HeroEquip> GetUnownedHeroes()
+    {
+        return allHeroEquips
+            .Where(allHero =>
+                !ownedHeroEquips.Any(
+                    ownedHero =>
+                        ownedHero.data.ID == allHero.data.ID))
+            .ToList();
     }
 }

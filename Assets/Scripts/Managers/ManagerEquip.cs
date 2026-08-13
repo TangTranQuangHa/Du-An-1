@@ -112,10 +112,10 @@ public class ManagerEquip : Singleton<ManagerEquip>
     
     private void MoveTheDragged(CommonDrag drag, Transform parent)
     {
-        Transform frame = drag.transform.parent;
+        Transform frame = drag.transform;
 
         frame.SetParent(parent);
-        frame.localPosition = Vector3.zero;
+        frame.GetComponent<RectTransform>().anchoredPosition = new Vector3( 130, -150, 0);
     }
 
     private void UpdateDataEquip(DragItem dragItem, EquipSlotType equipSlotType)

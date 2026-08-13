@@ -4,4 +4,5 @@ public class DataHero : DataCharacter
 {
     public int Meat;
     public int Water;
+    public Rarity _rarity;
 }

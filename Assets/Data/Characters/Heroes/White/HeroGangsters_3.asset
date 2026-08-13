@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 415d4f1d610332e42888aae0466f8fda, type: 3}
+  m_Name: HeroGangsters_3
+  m_EditorClassIdentifier: 
+  ID: 7
+  Enity: {fileID: 4701254237564926524, guid: 2388d890a85f26943a2ab8c9abc2ee01, type: 3}
+  Name: HeroGangsters_3
+  Describe: 
+  Health: 90
+  Damage: 24
+  Meat: 1
+  Water: 1
+  _rarity: 0
