@@ -61,6 +61,31 @@ public class HeroManager : MonoBehaviour
         return ownedHeroEquips.FirstOrDefault(hero => hero.data.ID == ID);
     }
 
+    public void ClearOwnedHeroEquips()
+    {
+        ownedHeroEquips.Clear();
+    }
+
+    public HeroEquip GetOriginalHeroEquipByID(int ID)
+    {
+        return allHeroEquips.FirstOrDefault(he => he.data.ID == ID);
+    }
+
+    public List<OwnedHero> GetOwnedHeroes()
+    {
+        var result = new List<OwnedHero>();
+        foreach (var ownedHeroEquip in ownedHeroEquips)
+        {
+            var newOwnedHero = new OwnedHero(
+                ownedHeroEquip.data.ID,
+                (ownedHeroEquip.item_1 != null) ? ownedHeroEquip.item_1.ID : -1,
+                (ownedHeroEquip.item_2 != null) ? ownedHeroEquip.item_2.ID : -1
+            );
+            result.Add(newOwnedHero);
+        }
+        return result;
+    }
+
     // Get
     public List<HeroEquip> GetUnownedHeroes()
     {
