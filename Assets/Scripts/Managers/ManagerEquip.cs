@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class ManagerEquip : Singleton<ManagerEquip>
+public class ManagerEquip : MonoBehaviour
 {
     public SlotHero slotHero;
     public SlotItem[] slotItems;
@@ -35,6 +35,7 @@ public class ManagerEquip : Singleton<ManagerEquip>
         }
         // set the new hero to the slot
         MoveTheDragged(dragHero, slotHero.transform);
+        dragHero.SetHeroRectTransform();
 
         // get the stats card from the drag hero and update currentHeroEquip
         StatsCard statsCard = dragHero.gameObject.GetComponent<StatsCard>();
@@ -113,12 +114,10 @@ public class ManagerEquip : Singleton<ManagerEquip>
     
     private void MoveTheDragged(CommonDrag drag, Transform parent)
     {
-        drag.transform.SetParent(parent);
-        drag.transform.localPosition = Vector3.zero;
         Transform frame = drag.transform;
 
         frame.SetParent(parent);
-        frame.GetComponent<RectTransform>().anchoredPosition = new Vector3( 130, -150, 0);
+        frame.localPosition = Vector3.zero;
     }
 
     private void UpdateDataEquip(DragItem dragItem, EquipSlotType equipSlotType)

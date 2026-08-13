@@ -27,6 +27,7 @@ public class ManagerSlotBattle : MonoBehaviour
         }
         // set the new hero to the slot
         MoveTheDragged(dragHero, slotHero.transform);
+        dragHero.SetHeroRectTransform();
         slotHero.SetCharacter(dragHero);
     }
     private void MoveTheDragged(CommonDrag drag, Transform parent)
@@ -34,6 +35,6 @@ public class ManagerSlotBattle : MonoBehaviour
         Transform frame = drag.transform;
 
         frame.SetParent(parent);
-        frame.GetComponent<RectTransform>().anchoredPosition = new Vector3(130, -150, 0);
+        frame.localPosition = Vector3.zero;
     }
 }

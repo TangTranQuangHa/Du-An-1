@@ -25,7 +25,7 @@ public class HeroManager : MonoBehaviour
         }
     }
     //Gift For Beginer
-    private void GiveStarterHeroes()
+    public void GiveStarterHeroes()
     {
         ownedHeroEquips.Add(allHeroEquips.FirstOrDefault(hero => hero.data.ID == GiftHero_1.ID));
         ownedHeroEquips.Add(allHeroEquips.FirstOrDefault(hero => hero.data.ID == GiftHero_2.ID));

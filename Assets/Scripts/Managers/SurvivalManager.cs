@@ -12,9 +12,7 @@ public class SurvivalManager : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Awake()
     {
-        WaterCurrent = 20;
-        MeatCurrent = 20;
-        DayCurrent = 1;
+        Reset();
     }
     public void UpdateConsumption()
     {
@@ -94,5 +92,26 @@ public class SurvivalManager : MonoBehaviour
             }
         }
         return null;
+    }
+
+    public void Reset()
+    {
+        WaterCurrent = 20;
+        MeatCurrent = 20;
+        DayCurrent = 1;
+    }
+
+    public void SetDay(int day)
+    {
+        DayCurrent = day;
+    }
+
+    public void SetOwnerWater(int water)
+    {
+        WaterCurrent = water;
+    }
+    public void SetOwnerMeat(int meat)
+    {
+        MeatCurrent = meat;
     }
 }
