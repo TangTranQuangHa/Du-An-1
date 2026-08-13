@@ -115,6 +115,10 @@ public class ManagerEquip : Singleton<ManagerEquip>
     {
         drag.transform.SetParent(parent);
         drag.transform.localPosition = Vector3.zero;
+        Transform frame = drag.transform;
+
+        frame.SetParent(parent);
+        frame.GetComponent<RectTransform>().anchoredPosition = new Vector3( 130, -150, 0);
     }
 
     private void UpdateDataEquip(DragItem dragItem, EquipSlotType equipSlotType)

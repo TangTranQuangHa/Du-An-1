@@ -3,28 +3,32 @@ using UnityEngine.SceneManagement;
 public class GiaoDien : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    public void LoadScene()
+    public void LoadSceneAquaArea()
     {
         SceneManager.LoadScene("AquaArea");
     }
-    public void LoadScene1()
+    public void LoadSceneCityArea()
     {
         SceneManager.LoadScene("CityArea");
     }
-    public void LoadScene2()
+    public void LoadSceneForestArea()
     {
         SceneManager.LoadScene("ForestArea");
     }
-    public void LoadScene3()
+    public void LoadSceneRecruit()
     {
         SceneManager.LoadScene("Recruit");
     }
-    public void LoadScene5()
+    public void LoadSceneHeroes()
     {
         SceneManager.LoadScene("Heroes");
     }
-    public void LoadScene4()
+    public void LoadSceneMainMenu()
     {
         SceneManager.LoadScene("MainMenu");
+    }
+    public void LoadSceneGameplay()
+    {
+        SceneManager.LoadScene("Gameplay");
     }
 }

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 415d4f1d610332e42888aae0466f8fda, type: 3}
+  m_Name: Hero Shinobi
+  m_EditorClassIdentifier: 
+  ID: 13
+  Enity: {fileID: 2844063933371449241, guid: 3be4c5ea7ea971841b5babcea1c84cf3, type: 3}
+  Name: Shinobi
+  Describe: 
+  Health: 130
+  Damage: 42
+  Meat: 2
+  Water: 1
+  _rarity: 1

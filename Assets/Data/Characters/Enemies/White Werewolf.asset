@@ -12,8 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c0e80a3b706b3943afdc1e76125a4f3, type: 3}
   m_Name: White Werewolf
   m_EditorClassIdentifier: 
-  ID: 0
+  ID: 19
+  Enity: {fileID: 0}
   Name: White Werewolf
   Describe: 
   Health: 130
   Damage: 18
+  PointDanger: 0
