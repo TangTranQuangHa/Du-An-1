@@ -138,12 +138,12 @@ TextureImporter:
       name: Swim-Sheet_0
       rect:
         serializedVersion: 2
-        x: 9
-        y: 6
-        width: 68
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 10
+        y: 7
+        width: 66
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -160,12 +160,12 @@ TextureImporter:
       name: Swim-Sheet_1
       rect:
         serializedVersion: 2
-        x: 89
-        y: 6
-        width: 64
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 90
+        y: 7
+        width: 62
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -182,12 +182,12 @@ TextureImporter:
       name: Swim-Sheet_2
       rect:
         serializedVersion: 2
-        x: 169
-        y: 5
-        width: 61
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 170
+        y: 6
+        width: 59
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -204,12 +204,12 @@ TextureImporter:
       name: Swim-Sheet_3
       rect:
         serializedVersion: 2
-        x: 249
-        y: 5
-        width: 63
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 250
+        y: 6
+        width: 61
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -226,7 +226,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: f52cabbcd2720fc45833094e1cd4e436
     internalID: 0
     vertices: []
     indices: 

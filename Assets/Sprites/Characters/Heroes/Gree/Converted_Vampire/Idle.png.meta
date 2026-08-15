@@ -145,8 +145,8 @@ TextureImporter:
         y: 0
         width: 49
         height: 76
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.62, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -167,8 +167,8 @@ TextureImporter:
         y: 0
         width: 49
         height: 77
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.62, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -189,8 +189,8 @@ TextureImporter:
         y: 0
         width: 49
         height: 77
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.66, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -207,12 +207,12 @@ TextureImporter:
       name: Idle_3
       rect:
         serializedVersion: 2
-        x: 414
+        x: 413
         y: 0
         width: 49
         height: 78
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.71, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -233,8 +233,8 @@ TextureImporter:
         y: 0
         width: 49
         height: 77
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.72, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
