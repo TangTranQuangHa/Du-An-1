@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 0
   Enity: {fileID: 3132686716173975614, guid: 5f48f80b314d04a47a1dad1ea9bcfa82, type: 3}
-  Name: City_men_1
-  Describe: 
+  Name: Marcus
+  Describe: "T\u1EEBng l\xE0 c\xF4ng nh\xE2n th\xE0nh ph\u1ED1, anh d\xF9ng s\u1EE9c
+    m\u1EA1nh v\xE0 kinh nghi\u1EC7m sinh t\u1ED3n \u0111\u1EC3 b\u1EA3o v\u1EC7
+    m\u1ECDi ng\u01B0\u1EDDi kh\u1ECFi l\u0169 qu\xE1i v\u1EADt."
   Health: 130
   Damage: 17
   Meat: 1

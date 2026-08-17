@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 26
   Enity: {fileID: 4441086006185545137, guid: 78f7991b98e4b9b4e9b49ad27e95cd19, type: 3}
-  Name: Soldier_3
-  Describe: 
+  Name: Roland
+  Describe: "Ng\u01B0\u1EDDi l\xEDnh s\u1ED1ng s\xF3t cu\u1ED1i c\xF9ng c\u1EE7a
+    \u0111\u01A1n v\u1ECB, mang theo k\xFD \u1EE9c \u0111\u1ED3ng \u0111\u1ED9i v\xE0
+    quy\u1EBFt t\xE2m ho\xE0n th\xE0nh nhi\u1EC7m v\u1EE5 cu\u1ED1i c\xF9ng."
   Health: 220
   Damage: 76
   Meat: 4

@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 7
   Enity: {fileID: 4701254237564926524, guid: 2388d890a85f26943a2ab8c9abc2ee01, type: 3}
-  Name: HeroGangsters_3
-  Describe: 
+  Name: Cole
+  Describe: "M\u1ED9t tay x\xE3 h\u1ED9i \u0111en chuy\u1EC3n sang d\xF9ng s\xFAng,
+    lang thang gi\u1EEFa nh\u1EEFng con ph\u1ED1 ch\u1EBFt \u0111\u1EC3 t\xECm n\u01A1i
+    tr\xFA \u1EA9n."
   Health: 90
   Damage: 24
   Meat: 1

@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 4
   Enity: {fileID: 2222589859957637559, guid: 909a5bb439bc28348926368c8df89a44, type: 3}
-  Name: Girl_2
-  Describe: 
+  Name: Emma
+  Describe: "T\u1EEBng l\xE0 c\xF4 g\xE1i th\xE0nh th\u1ECB b\xECnh th\u01B0\u1EDDng,
+    c\xF4 r\xE8n luy\u1EC7n s\u1EE9c m\u1EA1nh \u0111\u1EC3 kh\xF4ng tr\u1EDF th\xE0nh
+    g\xE1nh n\u1EB7ng cho \u0111\u1ED3ng \u0111\u1ED9i."
   Health: 118
   Damage: 18
   Meat: 1

@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 25
   Enity: {fileID: 3822361037428893768, guid: 854960d3cd41d514c8567d66eaf03b28, type: 3}
-  Name: Soldier_2
-  Describe: 
+  Name: Leon
+  Describe: "M\u1ED9t ng\u01B0\u1EDDi l\xEDnh thi\u1EC7n x\u1EA1 t\u1EEBng b\u1EA3o
+    v\u1EC7 khu s\u01A1 t\xE1n, nay ti\u1EBFp t\u1EE5c chi\u1EBFn \u0111\u1EA5u \u0111\u1EC3
+    \u0111\u01B0a m\u1ECDi ng\u01B0\u1EDDi \u0111\u1EBFn n\u01A1i an to\xE0n."
   Health: 230
   Damage: 74
   Meat: 4

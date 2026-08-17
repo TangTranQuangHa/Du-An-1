@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 3
   Enity: {fileID: 7387480453180778423, guid: b91db8611d023704fbf55c25d0bdd7c8, type: 3}
-  Name: Fighter
-  Describe: 
+  Name: Jack
+  Describe: "M\u1ED9t v\xF5 s\u0129 \u0111\u01B0\u1EDDng ph\u1ED1 s\u1ED1ng s\xF3t
+    qua ng\xE0y t\u1EADn th\u1EBF, d\xF9ng n\u1EAFm \u0111\u1EA5m v\xE0 \xFD ch\xED
+    \u0111\u1EC3 b\u1EA3o v\u1EC7 \u0111\u1ED3ng \u0111\u1ED9i."
   Health: 115
   Damage: 20
   Meat: 1

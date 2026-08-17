@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 5
   Enity: {fileID: 7872704620749920971, guid: 11bc00bfa1826964c98a4a8e0a3957a1, type: 3}
-  Name: Girl_3
-  Describe: 
+  Name: Sophie
+  Describe: "S\u1ED1ng s\xF3t m\u1ED9t m\xECnh sau th\u1EA3m h\u1ECDa, c\xF4 tr\u1EDF
+    n\xEAn l\u1EA1nh l\xF9ng nh\u01B0ng lu\xF4n \xE2m th\u1EA7m b\u1EA3o v\u1EC7
+    nh\xF3m c\u1EE7a m\xECnh."
   Health: 122
   Damage: 17
   Meat: 1

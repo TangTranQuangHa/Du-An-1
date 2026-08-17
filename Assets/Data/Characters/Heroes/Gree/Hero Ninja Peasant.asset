@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 12
   Enity: {fileID: 7468664035869900027, guid: 9e8576b1e5f0c36448a09d4af966257f, type: 3}
-  Name: Ninja Peasant
-  Describe: 
+  Name: Hiro
+  Describe: "Xu\u1EA5t th\xE2n l\xE0 n\xF4ng d\xE2n, anh h\u1ECDc v\xF5 \u0111\u1EC3
+    b\u1EA3o v\u1EC7 qu\xEA nh\xE0 tr\u01B0\u1EDBc khi m\u1ECDi th\u1EE9 b\u1ECB
+    nu\u1ED1t ch\u1EEDng b\u1EDFi th\u1EA3m h\u1ECDa."
   Health: 160
   Damage: 31
   Meat: 2

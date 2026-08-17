@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 2
   Enity: {fileID: 7199499787256425405, guid: d6cda2d9e4d3cb347b787f00ff041c8d, type: 3}
-  Name: City_men_3
-  Describe: 
+  Name: Ethan
+  Describe: "T\u1EEBng lang thang t\xECm th\u1EE9c \u0103n trong th\xE0nh ph\u1ED1,
+    anh tr\u1EDF th\xE0nh chi\u1EBFn binh l\xEC l\u1EE3m sau nhi\u1EC1u l\u1EA7n
+    \u0111\u1ED1i m\u1EB7t hi\u1EC3m nguy."
   Health: 125
   Damage: 19
   Meat: 1

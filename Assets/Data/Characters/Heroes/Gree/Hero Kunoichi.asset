@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 10
   Enity: {fileID: 3377397421894017751, guid: a68536b46f4acec439741318d0361cd2, type: 3}
-  Name: Kunoichi
-  Describe: 
+  Name: Ayame
+  Describe: "N\u1EEF ninja b\xED \u1EA9n s\u1ED1ng s\xF3t sau th\u1EA3m h\u1ECDa,
+    s\u1EED d\u1EE5ng t\u1ED1c \u0111\u1ED9 v\xE0 k\u1EF9 n\u0103ng \xE1m s\xE1t
+    \u0111\u1EC3 ti\xEAu di\u1EC7t k\u1EBB th\xF9."
   Health: 145
   Damage: 38
   Meat: 2

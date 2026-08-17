@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 16
   Enity: {fileID: 5755643516686335895, guid: 8f7dec1c452620240b4863f0a02f2687, type: 3}
-  Name: Gangsters_1
-  Describe: 
+  Name: Vincent
+  Describe: "M\u1ED9t tay s\xFAng kh\xE9t ti\u1EBFng t\u1EEBng \u0111\u1EE9ng \u0111\u1EA7u
+    b\u0103ng nh\xF3m, gi\u1EDD d\xF9ng k\u1EF9 n\u0103ng chi\u1EBFn \u0111\u1EA5u
+    \u0111\u1EC3 b\u1EA3o v\u1EC7 nh\u1EEFng ng\u01B0\u1EDDi s\u1ED1ng s\xF3t."
   Health: 175
   Damage: 55
   Meat: 3

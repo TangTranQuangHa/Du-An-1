@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 11
   Enity: {fileID: 794642666824071713, guid: 385fa5ef7c09cbb45b591075bf43a2f7, type: 3}
-  Name: Ninja Monk
-  Describe: 
+  Name: Kenji
+  Describe: "M\u1ED9t tu s\u0129 ninja t\u1EEBng s\u1ED1ng \u1EA9n d\u1EADt, nay
+    r\u1EDDi n\u01A1i tu h\xE0nh \u0111\u1EC3 b\u1EA3o v\u1EC7 nh\u1EEFng ng\u01B0\u1EDDi
+    s\u1ED1ng s\xF3t."
   Health: 170
   Damage: 30
   Meat: 2

@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 3
   Enity: {fileID: 4439266310013555156, guid: a85cff457373de34cb100ddc9253bd55, type: 3}
-  Name: Girl_1
-  Describe: 
+  Name: Lily
+  Describe: "C\xF4 g\xE1i tr\u1EBB t\u1EEBng s\u1ED1ng b\xECnh th\u01B0\u1EDDng,
+    nay h\u1ECDc c\xE1ch chi\u1EBFn \u0111\u1EA5u v\xE0 s\u0103n qu\xE1i v\u1EADt
+    \u0111\u1EC3 b\u1EA3o v\u1EC7 nh\u1EEFng ng\u01B0\u1EDDi th\xE2n c\xF2n l\u1EA1i."
   Health: 85
   Damage: 25
   Meat: 1

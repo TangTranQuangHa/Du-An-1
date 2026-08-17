@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 9
   Enity: {fileID: 3911194612837350653, guid: a54a4f2675dba4242b6b31ca5a72fd71, type: 3}
-  Name: Converted Vampire
-  Describe: 
+  Name: Adrian
+  Describe: "T\u1EEBng l\xE0 con ng\u01B0\u1EDDi, anh b\u1ECB bi\u1EBFn \u0111\u1ED5i
+    b\u1EDFi d\u1ECBch b\u1EC7nh nh\u01B0ng v\u1EABn gi\u1EEF \xFD th\u1EE9c v\xE0
+    chi\u1EBFn \u0111\u1EA5u ch\u1ED1ng l\u1EA1i qu\xE1i v\u1EADt."
   Health: 180
   Damage: 28
   Meat: 2

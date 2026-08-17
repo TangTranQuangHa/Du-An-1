@@ -14,8 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 17
   Enity: {fileID: 3801980501139699461, guid: 2ba4edfe5bb9a0e479553eb4abc876ee, type: 3}
-  Name: Graffiti Artist
-  Describe: 
+  Name: Raven
+  Describe: "Ngh\u1EC7 s\u0129 \u0111\u01B0\u1EDDng ph\u1ED1 bi\u1EBFn nh\u1EEFng
+    b\u1EE9c tranh th\xE0nh d\u1EA5u hi\u1EC7u d\u1EABn \u0111\u01B0\u1EDDng, \u0111\u1ED3ng
+    th\u1EDDi s\u1EED d\u1EE5ng ph\xE9p thu\u1EADt \u0111\u1EC3 ch\u1ED1ng l\u1EA1i
+    qu\xE1i v\u1EADt."
   Health: 150
   Damage: 58
   Meat: 2

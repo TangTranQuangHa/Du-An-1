@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 18
   Enity: {fileID: 4456142926862931782, guid: 87663a37b22b6cb4f864aac77531d2cb, type: 3}
-  Name: Lightning Mage
-  Describe: 
+  Name: Orion
+  Describe: "Ph\xE1p s\u01B0 b\xED \u1EA9n \u0111i\u1EC1u khi\u1EC3n s\u1EA5m s\xE9t,
+    lang thang gi\u1EEFa nh\u1EEFng th\xE0nh ph\u1ED1 \u0111\u1ED5 n\xE1t \u0111\u1EC3
+    t\xECm ngu\u1ED3n g\u1ED1c th\u1EA3m h\u1ECDa."
   Health: 140
   Damage: 66
   Meat: 2

@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 14
   Enity: {fileID: 4654000768527113185, guid: e82900b323650bd4690b1a6b31f6405a, type: 3}
-  Name: Countess Vampire
-  Describe: 
+  Name: Isabella
+  Describe: "N\u1EEF b\xE1 t\u01B0\u1EDBc ma c\xE0 r\u1ED3ng s\u1EDF h\u1EEFu s\u1EE9c
+    m\u1EA1nh c\u1ED5 x\u01B0a, mi\u1EC5n c\u01B0\u1EE1ng h\u1EE3p t\xE1c v\u1EDBi
+    con ng\u01B0\u1EDDi \u0111\u1EC3 t\xECm n\u01A1i tr\xFA \u1EA9n."
   Health: 160
   Damage: 60
   Meat: 2

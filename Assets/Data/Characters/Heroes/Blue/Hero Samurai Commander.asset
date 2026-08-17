@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 20
   Enity: {fileID: 2290796061026272786, guid: 4041b5b643872354bae61ef987ea919c, type: 3}
-  Name: Samurai Commander
-  Describe: 
+  Name: Kenshin
+  Describe: "C\u1EF1u ch\u1EC9 huy samurai d\u1EABn d\u1EAFt nh\xF3m s\u1ED1ng s\xF3t,
+    lu\xF4n \u0111\u1EB7t chi\u1EBFn thu\u1EADt v\xE0 an to\xE0n \u0111\u1ED3ng \u0111\u1ED9i
+    l\xEAn h\xE0ng \u0111\u1EA7u."
   Health: 225
   Damage: 44
   Meat: 3

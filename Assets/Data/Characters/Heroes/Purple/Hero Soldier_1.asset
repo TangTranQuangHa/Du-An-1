@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 24
   Enity: {fileID: 4196316917651924487, guid: a8e0ce2fd0d9c5c40b7cceebf33c4af5, type: 3}
-  Name: Soldier_1
-  Describe: 
+  Name: William
+  Describe: "C\u1EF1u binh t\u1EEBng chi\u1EBFn \u0111\u1EA5u ngo\xE0i ti\u1EC1n
+    tuy\u1EBFn, s\u1EDF h\u1EEFu kinh nghi\u1EC7m tr\u1EADn m\u1EA1c gi\xFAp nh\xF3m
+    s\u1ED1ng s\xF3t qua nh\u1EEFng tr\u1EADn chi\u1EBFn kh\u1ED1c li\u1EC7t."
   Health: 240
   Damage: 72
   Meat: 4

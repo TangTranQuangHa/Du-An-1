@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 1
   Enity: {fileID: 2421741032738868042, guid: b6d1cbc95312e1542922d9e556ee267e, type: 3}
-  Name: City_men_2
-  Describe: 
+  Name: Daniel
+  Describe: "M\u1ED9t ng\u01B0\u1EDDi s\u1ED1ng s\xF3t b\xECnh th\u01B0\u1EDDng gi\u1EEFa
+    th\xE0nh ph\u1ED1 \u0111\u1ED5 n\xE1t, quen thu\u1ED9c \u0111\u01B0\u1EDDng ph\u1ED1
+    v\xE0 lu\xF4n s\u1EB5n s\xE0ng chi\u1EBFn \u0111\u1EA5u."
   Health: 120
   Damage: 18
   Meat: 1

@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 13
   Enity: {fileID: 2844063933371449241, guid: 3be4c5ea7ea971841b5babcea1c84cf3, type: 3}
-  Name: Shinobi
-  Describe: 
+  Name: Ren
+  Describe: "M\u1ED9t shinobi b\xED m\u1EADt ho\u1EA1t \u0111\u1ED9ng trong b\xF3ng
+    t\u1ED1i, chuy\xEAn s\u0103n nh\u1EEFng con qu\xE1i v\u1EADt nguy hi\u1EC3m tr\u01B0\u1EDBc
+    khi ch\xFAng ti\u1EBFp c\u1EADn nh\xF3m."
   Health: 130
   Damage: 42
   Meat: 2
