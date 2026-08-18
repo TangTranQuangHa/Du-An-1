@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 19
   Enity: {fileID: 8837455073675386912, guid: ea733f6d4e20b4043ae07910bcdf9196, type: 3}
-  Name: Samurai Armor
-  Describe: 
+  Name: Raiden
+  Describe: "M\u1ED9t chi\u1EBFn binh samurai kho\xE1c gi\xE1p n\u1EB7ng, t\u1EEBng
+    b\u1EA3o v\u1EC7 ph\xE1o \u0111\xE0i cu\u1ED1i c\xF9ng tr\u01B0\u1EDBc l\xE0n
+    s\xF3ng qu\xE1i v\u1EADt."
   Health: 245
   Damage: 38
   Meat: 3

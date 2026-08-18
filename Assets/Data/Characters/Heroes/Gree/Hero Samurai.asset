@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 21
   Enity: {fileID: 2033251772094652429, guid: 7fb075c62e74db14281ac7577ca22b2f, type: 3}
-  Name: Samurai
-  Describe: 
+  Name: Takeshi
+  Describe: "M\u1ED9t samurai lang b\u1EA1t gi\u1EEF l\u1EDDi th\u1EC1 b\u1EA3o v\u1EC7
+    ng\u01B0\u1EDDi y\u1EBFu th\u1EBF, d\xF9 th\u1EBF gi\u1EDBi xung quanh \u0111\xE3
+    ho\xE0n to\xE0n s\u1EE5p \u0111\u1ED5."
   Health: 190
   Damage: 27
   Meat: 2

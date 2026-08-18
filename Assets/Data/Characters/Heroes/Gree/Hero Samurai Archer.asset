@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 22
   Enity: {fileID: 4864201870143051183, guid: 678874e0f35f1a64a87c8b354a2a9d79, type: 3}
-  Name: Samurai Archer
-  Describe: 
+  Name: Akira
+  Describe: "Cung th\u1EE7 samurai t\u1EEBng b\u1EA3o v\u1EC7 l\xE3nh ch\xFAa, nay
+    d\xF9ng t\xE0i thi\u1EC7n x\u1EA1 \u0111\u1EC3 s\u0103n qu\xE1i v\u1EADt v\xE0
+    t\xECm \u0111\u01B0\u1EDDng s\u1ED1ng."
   Health: 125
   Damage: 40
   Meat: 2

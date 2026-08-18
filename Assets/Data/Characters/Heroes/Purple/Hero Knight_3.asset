@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 23
   Enity: {fileID: 8354412760662196117, guid: e85b1f0cb954cd3408da84a2f7e2e338, type: 3}
-  Name: Knight_3
-  Describe: 
+  Name: Arthur
+  Describe: "Hi\u1EC7p s\u0129 cu\u1ED1i c\xF9ng c\u1EE7a m\u1ED9t v\u01B0\u01A1ng
+    qu\u1ED1c \u0111\xE3 m\u1EA5t, mang thanh ki\u1EBFm huy\u1EC1n tho\u1EA1i v\xE0
+    l\u1EDDi th\u1EC1 b\u1EA3o v\u1EC7 nh\xE2n lo\u1EA1i."
   Health: 330
   Damage: 60
   Meat: 4

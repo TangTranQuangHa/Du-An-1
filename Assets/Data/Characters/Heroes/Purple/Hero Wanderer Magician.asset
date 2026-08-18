@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 27
   Enity: {fileID: 3969130416887546232, guid: 344d12bb0ec30f7429e5d457a7ec5064, type: 3}
-  Name: Wanderer Magician
-  Describe: 
+  Name: Magnus
+  Describe: "Ph\xE1p s\u01B0 lang thang s\u1EDF h\u1EEFu ki\u1EBFn th\u1EE9c c\u1ED5
+    x\u01B0a, tin r\u1EB1ng s\u1EE9c m\u1EA1nh c\u1EE7a m\xECnh c\xF3 th\u1EC3 ch\u1EA5m
+    d\u1EE9t th\u1EA3m h\u1ECDa."
   Health: 210
   Damage: 82
   Meat: 3

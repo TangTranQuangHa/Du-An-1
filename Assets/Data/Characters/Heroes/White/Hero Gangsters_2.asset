@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 6
   Enity: {fileID: 1770452880236930564, guid: dec1f136a45c97a40bab54c5d782a6ee, type: 3}
-  Name: HeroGangsters_2
-  Describe: 
+  Name: Victor
+  Describe: "T\u1EEBng l\xE0 tay giang h\u1ED3 kh\xE9t ti\u1EBFng, anh t\u1EADn d\u1EE5ng
+    kinh nghi\u1EC7m chi\u1EBFn \u0111\u1EA5u \u0111\u1EC3 s\u1ED1ng s\xF3t gi\u1EEFa
+    th\u1EBF gi\u1EDBi h\u1ED7n lo\u1EA1n."
   Health: 110
   Damage: 21
   Meat: 1

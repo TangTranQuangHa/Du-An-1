@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 15
   Enity: {fileID: 6928297552615334923, guid: 1f87b6603706ce947a4d4254cae662da, type: 3}
-  Name: 'Fire Wizard '
-  Describe: 
+  Name: Alaric
+  Describe: "Ph\xE1p s\u01B0 \u0111i\u1EC1u khi\u1EC3n ng\u1ECDn l\u1EEDa, t\u1EEBng
+    b\u1EA3o v\u1EC7 m\u1ED9t th\u1ECB tr\u1EA5n nh\u1ECF tr\u01B0\u1EDBc khi qu\xEA
+    h\u01B0\u01A1ng b\u1ECB qu\xE1i v\u1EADt ph\xE1 h\u1EE7y."
   Health: 145
   Damage: 62
   Meat: 2

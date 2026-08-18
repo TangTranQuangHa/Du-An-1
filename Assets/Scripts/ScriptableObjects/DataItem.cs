@@ -18,6 +18,9 @@ public class DataItem : ScriptableObject
     // Max Health +
     public float Health;
 
+    // Icon
+    public Sprite Icon;
+
     public void Equip(GameObject target)
     {
         // change this after hero handle add
