@@ -107,9 +107,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   data: {fileID: 11400000, guid: 50f50e595687ef04291a9a2a575707d8, type: 2}
-  txt_Name: {fileID: 0}
-  txt_Hp: {fileID: 0}
-  txt_Damage: {fileID: 0}
+  heroEquip:
+    data: {fileID: 0}
+    item_1: {fileID: 0}
+    item_2: {fileID: 0}
+  txt_Name: {fileID: 6810993147096891214}
+  txt_Hp: {fileID: 2099501485748543408}
+  txt_Damage: {fileID: 4546935964457485194}
 --- !u!1 &2809749965361537451
 GameObject:
   m_ObjectHideFlags: 0

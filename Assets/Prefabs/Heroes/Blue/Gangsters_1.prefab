@@ -205,6 +205,7 @@ Transform:
   - {fileID: 7092574328862787317}
   - {fileID: 2577204522638613409}
   - {fileID: 7457553455258553853}
+  - {fileID: 3494840718311623599}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &352054588055116292
@@ -267,3 +268,52 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   damageCurrent: 0
   battleCharacter: {fileID: 0}
+--- !u!1 &8296169654496859726
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3494840718311623599}
+  - component: {fileID: 1551014998205079668}
+  m_Layer: 0
+  m_Name: 'Sound  '
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3494840718311623599
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8296169654496859726}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 90}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1074727389255572409}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1551014998205079668
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8296169654496859726}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ae423d3b09dd1e43826741b91fe519d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  soundHurt: {fileID: 8300000, guid: 9d1db1ace6d1b5c468046962f2d4e068, type: 3}
+  soundAttack: {fileID: 8300000, guid: 0324a2d842e76f54cb2616153805ae54, type: 3}
+  soundDead: {fileID: 8300000, guid: 96c5bf56266ee4947934f7a2e4665cc2, type: 3}
+  battleCharacter: {fileID: 352054588055116292}
+  audioCharacter: {fileID: 0}

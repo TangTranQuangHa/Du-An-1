@@ -1,5 +1,54 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2346293753021322994
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1561926349400590426}
+  - component: {fileID: 1740420360471595176}
+  m_Layer: 0
+  m_Name: Sound
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1561926349400590426
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2346293753021322994}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 90}
+  m_LocalScale: {x: -1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 188639432453728331}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1740420360471595176
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2346293753021322994}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ae423d3b09dd1e43826741b91fe519d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  soundHurt: {fileID: 8300000, guid: 50441ea76f5b65e4a90bc3334878fe67, type: 3}
+  soundAttack: {fileID: 8300000, guid: 60d0a345dda52864a9f8ecfc28f1c46b, type: 3}
+  soundDead: {fileID: 8300000, guid: 7570a499fe2e7514488220db478e0613, type: 3}
+  battleCharacter: {fileID: 413248271354998656}
+  audioCharacter: {fileID: 0}
 --- !u!1 &3385301073916415544
 GameObject:
   m_ObjectHideFlags: 0
@@ -79,6 +128,7 @@ Transform:
   - {fileID: 2785931008488927879}
   - {fileID: 2227909073510390383}
   - {fileID: 3192091843483359816}
+  - {fileID: 1561926349400590426}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &413248271354998656

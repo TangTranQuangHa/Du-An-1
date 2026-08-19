@@ -135,12 +135,12 @@ TextureImporter:
       name: Hurt_0
       rect:
         serializedVersion: 2
-        x: 31
+        x: 32
         y: 0
-        width: 30
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 28
+        height: 60
+      alignment: 9
+      pivot: {x: 0.26, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -157,12 +157,12 @@ TextureImporter:
       name: Hurt_1
       rect:
         serializedVersion: 2
-        x: 120
+        x: 121
         y: 0
-        width: 41
-        height: 59
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 39
+        height: 58
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -179,12 +179,12 @@ TextureImporter:
       name: Hurt_2
       rect:
         serializedVersion: 2
-        x: 222
+        x: 223
         y: 0
-        width: 35
-        height: 59
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 33
+        height: 58
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -201,7 +201,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: b72df6d4999171f429f8d612db46ec36
     internalID: 0
     vertices: []
     indices: 
@@ -214,6 +214,7 @@ TextureImporter:
       Hurt_0: -2048800907179887802
       Hurt_1: 490842205202310979
       Hurt_2: -3720053754089064719
+      Hurt_3: -43229090
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

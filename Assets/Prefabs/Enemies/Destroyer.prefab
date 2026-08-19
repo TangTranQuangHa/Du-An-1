@@ -1,5 +1,54 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &125852869480884824
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4423508643784347833}
+  - component: {fileID: 4904616493901110663}
+  m_Layer: 0
+  m_Name: 'Sound    '
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4423508643784347833
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 125852869480884824}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 90}
+  m_LocalScale: {x: -1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2088030088963456803}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4904616493901110663
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 125852869480884824}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ae423d3b09dd1e43826741b91fe519d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  soundHurt: {fileID: 8300000, guid: b6a575539992b5c44a0f76f0722acea2, type: 3}
+  soundAttack: {fileID: 8300000, guid: 1899953d2aedc7449bdfef242b4beedd, type: 3}
+  soundDead: {fileID: 8300000, guid: 01b08ac1908aaf14e8d43ad905863c26, type: 3}
+  battleCharacter: {fileID: 2612902833854869798}
+  audioCharacter: {fileID: 0}
 --- !u!1 &2821310143378317692
 GameObject:
   m_ObjectHideFlags: 0
@@ -251,6 +300,7 @@ Transform:
   - {fileID: 426047538643357856}
   - {fileID: 2093659282621560823}
   - {fileID: 195141297397045684}
+  - {fileID: 4423508643784347833}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &2612902833854869798

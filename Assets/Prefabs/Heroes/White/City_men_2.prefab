@@ -33,6 +33,7 @@ Transform:
   - {fileID: 2434119873259411486}
   - {fileID: 8498824162485363679}
   - {fileID: 434864382035658307}
+  - {fileID: 4845782622766023143}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &4300739232182455680
@@ -221,6 +222,55 @@ MonoBehaviour:
   data: {fileID: 11400000, guid: cb2e2082ae2232a4e9d798dc437d0eae, type: 2}
   currentHp: 0
   maxHp: 0
+--- !u!1 &5630127843202387022
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4845782622766023143}
+  - component: {fileID: 5736610876218135475}
+  m_Layer: 0
+  m_Name: 'Sound '
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4845782622766023143
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5630127843202387022}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.42, y: 0, z: 90}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4869245477004694595}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5736610876218135475
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5630127843202387022}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ae423d3b09dd1e43826741b91fe519d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  soundHurt: {fileID: 8300000, guid: 9d1db1ace6d1b5c468046962f2d4e068, type: 3}
+  soundAttack: {fileID: 8300000, guid: 4b32c060da406184e9e535701b56f5af, type: 3}
+  soundDead: {fileID: 8300000, guid: 96c5bf56266ee4947934f7a2e4665cc2, type: 3}
+  battleCharacter: {fileID: 4300739232182455680}
+  audioCharacter: {fileID: 0}
 --- !u!1 &7522998208175384081
 GameObject:
   m_ObjectHideFlags: 0

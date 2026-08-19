@@ -27,6 +27,7 @@ public class ManagerSlotBattle : MonoBehaviour
         }
         // set the new hero to the slot
         MoveTheDragged(dragHero, slotHero.transform);
+        RemoveDuplicateHero(slotHero, dragHero);
         dragHero.SetHeroRectTransform();
         slotHero.SetCharacter(dragHero);
     }
@@ -36,5 +37,13 @@ public class ManagerSlotBattle : MonoBehaviour
 
         frame.SetParent(parent);
         frame.localPosition = Vector3.zero;
+    }
+    private void RemoveDuplicateHero(SlotHero slotHero, DragHero dragHero)
+    {
+        foreach(SlotHero member in slotHeroes)
+        {
+            if (dragHero == member.DragCurrent && member != slotHero)
+                member.SetCharacter(null);
+        }
     }
 }

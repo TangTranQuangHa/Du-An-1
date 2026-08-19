@@ -595,6 +595,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   data: {fileID: 11400000, guid: 861f9879b8066a6468d12e903ca21c50, type: 2}
-  txt_Name: {fileID: 0}
-  txt_Hp: {fileID: 0}
-  txt_Damage: {fileID: 0}
+  heroEquip:
+    data: {fileID: 0}
+    item_1: {fileID: 0}
+    item_2: {fileID: 0}
+  txt_Name: {fileID: 8443979208890751712}
+  txt_Hp: {fileID: 5839681978496708783}
+  txt_Damage: {fileID: 3361835166989869505}
