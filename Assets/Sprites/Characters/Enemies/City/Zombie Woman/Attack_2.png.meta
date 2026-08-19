@@ -141,12 +141,12 @@ TextureImporter:
       name: Attack_2_0
       rect:
         serializedVersion: 2
-        x: 32
+        x: 33
         y: 0
-        width: 33
-        height: 63
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 31
+        height: 62
+      alignment: 9
+      pivot: {x: 0.09, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -163,12 +163,12 @@ TextureImporter:
       name: Attack_2_1
       rect:
         serializedVersion: 2
-        x: 128
+        x: 129
         y: 0
-        width: 30
-        height: 62
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 28
+        height: 61
+      alignment: 9
+      pivot: {x: 0.07, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -185,12 +185,12 @@ TextureImporter:
       name: Attack_2_2
       rect:
         serializedVersion: 2
-        x: 224
+        x: 225
         y: 0
-        width: 54
-        height: 59
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 31
+        height: 58
+      alignment: 9
+      pivot: {x: 0.04, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -207,12 +207,12 @@ TextureImporter:
       name: Attack_2_4
       rect:
         serializedVersion: 2
-        x: 320
+        x: 321
         y: 0
-        width: 32
-        height: 59
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 30
+        height: 58
+      alignment: 9
+      pivot: {x: 0.06, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -221,6 +221,28 @@ TextureImporter:
       bones: []
       spriteID: 6689b7c2c4c9c6850800000000000000
       internalID: 6371639423800154214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_2_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 20
+        width: 19
+        height: 21
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc26742077b1494ea7fafbf71b96037
+      internalID: 950650993592285724
       vertices: []
       indices: 
       edges: []

@@ -4,6 +4,7 @@ using UnityEngine;
 public class StatsCard : MonoBehaviour
 {
     [SerializeField] private DataHero data;
+    [SerializeField] private HeroEquip heroEquip;
 
     [SerializeField] private TMP_Text txt_Name;
     [SerializeField] private TMP_Text txt_Hp;
@@ -11,12 +12,16 @@ public class StatsCard : MonoBehaviour
 
     public DataHero Data => data;
 
-    public void SetStat(HeroEquip heroEquip)
+    private void Start()
+    {
+        heroEquip = GameManager.Instance.heroManager.TakeHero(Data.ID);
+        SetStat();
+    }
+
+    public void SetStat()
     {
         if (heroEquip == null)
             return;
-
-        data = heroEquip.data;
 
         txt_Name.text = data.Name;
         txt_Hp.text = CalculateEquipmentValue.CalHealth(heroEquip).ToString();
@@ -27,8 +32,6 @@ public class StatsCard : MonoBehaviour
     {
         if (heroEquip == null)
             return;
-
-        data = heroEquip.data;
 
         txt_Name.text = data.Name;
         txt_Hp.text = CalculateEquipmentValue.CalHealth(heroEquip).ToString();

@@ -286,8 +286,8 @@ TextureImporter:
         y: 0
         width: 98
         height: 51
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.12, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -304,12 +304,12 @@ TextureImporter:
       name: frogger_tongue_7
       rect:
         serializedVersion: 2
-        x: 2844
+        x: 2843
         y: 0
         width: 82
         height: 55
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.17, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []

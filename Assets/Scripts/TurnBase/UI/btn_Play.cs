@@ -4,12 +4,10 @@ using UnityEngine;
 public class btn_Play : MonoBehaviour
 {
     [SerializeField] public Action startBattle;
-    [SerializeField] private GameObject scrollViewHero;
-    [SerializeField] private GameObject managerSlotBatlle;
+    [SerializeField] private GameObject pnl_ChoseHero;
     public void OnPlay()
     {
-        scrollViewHero.SetActive(false);
-        managerSlotBatlle.SetActive(false);
+        pnl_ChoseHero.SetActive(false);
         gameObject.SetActive(false);
         startBattle.Invoke();
     }

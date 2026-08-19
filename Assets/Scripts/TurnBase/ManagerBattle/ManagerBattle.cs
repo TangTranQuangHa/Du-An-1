@@ -7,6 +7,7 @@ public class ManagerBattle : MonoBehaviour
     [SerializeField] private ManagerHeroBattle managerHeroBattle;
     [SerializeField] private ManagerUIBar managerUIBar;
     [SerializeField] private ManagerPosCharacter managerPosCharacter;
+    [SerializeField] private RewardUI winPanel;
 
     [SerializeField] private StartBattle startBattle;
     [SerializeField] private BattleRun battleRun;
@@ -42,7 +43,7 @@ public class ManagerBattle : MonoBehaviour
     private void EndTurnBase(bool result)
     {
         if (result)
-            battleEnd.Win();
+            battleEnd.Win(winPanel);
         else
             battleEnd.Lose();
     }

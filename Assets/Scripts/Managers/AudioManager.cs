@@ -6,21 +6,15 @@ public class AudioManager : MonoBehaviour
     [SerializeField] AudioSource musicSource;
     [SerializeField] AudioSource SFXSource;
 
-    // [Header("-----Audio Clips-----")]
-    // public AudioClip[] background;
-    // public AudioClip[] attack;
-    // public AudioClip[] dmg;
-    // public AudioClip[] death;
-    // public AudioClip[] gun;
-
-    private void Start()
-    {
-        // musicSource.clip = background[Random.Range(0, background.Length)];
-        // musicSource.Play();
-    }
-
     public void PlaySFX(AudioClip clip)
     {
         SFXSource.PlayOneShot(clip);
     }
+
+    public void PlayMusic(AudioClip clip)
+    {
+        musicSource.clip = clip;
+        musicSource.Play();
+    }
+
 }

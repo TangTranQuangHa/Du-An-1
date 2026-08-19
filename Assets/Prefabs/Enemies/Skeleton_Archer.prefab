@@ -33,6 +33,7 @@ Transform:
   - {fileID: 2919790071804778818}
   - {fileID: 6401588501690762957}
   - {fileID: 5731559757524977136}
+  - {fileID: 831947639983862515}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &3391300147533616885
@@ -267,3 +268,52 @@ MonoBehaviour:
   data: {fileID: 11400000, guid: 3b9d2e75c1578064ba965538729d2736, type: 2}
   currentHp: 0
   maxHp: 0
+--- !u!1 &7625821673345446419
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 831947639983862515}
+  - component: {fileID: 5443244023331393681}
+  m_Layer: 0
+  m_Name: 'Sound     '
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &831947639983862515
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7625821673345446419}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 90}
+  m_LocalScale: {x: -1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3753817389017370804}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5443244023331393681
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7625821673345446419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ae423d3b09dd1e43826741b91fe519d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  soundHurt: {fileID: 8300000, guid: 98c838c487aa6514c81d9b5752110f73, type: 3}
+  soundAttack: {fileID: 8300000, guid: 6130db5db29eeda43836cee4b01ee041, type: 3}
+  soundDead: {fileID: 8300000, guid: 35dc9c0e6d2024a4492b39c67dd6902d, type: 3}
+  battleCharacter: {fileID: 3391300147533616885}
+  audioCharacter: {fileID: 0}

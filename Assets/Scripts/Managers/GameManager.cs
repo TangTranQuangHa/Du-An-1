@@ -11,6 +11,7 @@ public class GameManager : Singleton<GameManager>
     public ManagerRecruitHero managerRecruitHero;
     public SurvivalManager survivalManager;
     public RewardManager rewardManager;
+    public AudioManager audioManager;
     // Khai báo sự kiện thông báo khi load game xong
     public event Action OnGameLoaded;
 

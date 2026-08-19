@@ -3,9 +3,9 @@ using UnityEngine;
 
 public class BattleEnd : MonoBehaviour
 {
-    public void Win()
+    public void Win(RewardUI rewardUI)
     {
-        GiveReward();
+        GiveReward(rewardUI);
     }
 
     public void Lose()
@@ -13,7 +13,7 @@ public class BattleEnd : MonoBehaviour
         SceneManager.LoadScene("GameOver");
     }
 
-    private void GiveReward()
+    private void GiveReward(RewardUI rewardUI)
     {
         int day =
             GameManager.Instance.survivalManager.TakeDay();
@@ -64,6 +64,7 @@ public class BattleEnd : MonoBehaviour
 
         gameManager.Save();
 
-        SceneManager.LoadScene("Gameplay");
+        rewardUI.gameObject.SetActive(true);
+        rewardUI.ShowWin(reward.Items, reward.Water, reward.Meat);
     }
 }

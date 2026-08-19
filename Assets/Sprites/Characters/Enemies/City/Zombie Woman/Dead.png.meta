@@ -141,11 +141,11 @@ TextureImporter:
       name: Dead_0
       rect:
         serializedVersion: 2
-        x: 26
+        x: 27
         y: 0
-        width: 36
-        height: 51
-      alignment: 0
+        width: 34
+        height: 50
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -163,11 +163,11 @@ TextureImporter:
       name: Dead_1
       rect:
         serializedVersion: 2
-        x: 122
+        x: 123
         y: 0
-        width: 36
-        height: 51
-      alignment: 0
+        width: 34
+        height: 50
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -185,12 +185,12 @@ TextureImporter:
       name: Dead_2
       rect:
         serializedVersion: 2
-        x: 216
+        x: 217
         y: 0
-        width: 40
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 38
+        height: 39
+      alignment: 9
+      pivot: {x: 0.17, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -207,12 +207,12 @@ TextureImporter:
       name: Dead_3
       rect:
         serializedVersion: 2
-        x: 307
+        x: 308
         y: 0
-        width: 51
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 49
+        height: 37
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -229,12 +229,12 @@ TextureImporter:
       name: Dead_4
       rect:
         serializedVersion: 2
-        x: 388
+        x: 389
         y: 0
-        width: 66
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 10
+      alignment: 9
+      pivot: {x: 0.76, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -251,7 +251,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 996a8202ad19c2c4f81516728880773b
     internalID: 0
     vertices: []
     indices: 

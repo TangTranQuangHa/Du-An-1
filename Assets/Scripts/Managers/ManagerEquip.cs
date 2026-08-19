@@ -1,3 +1,4 @@
+using TMPro;
 using UnityEngine;
 
 public class ManagerEquip : MonoBehaviour
@@ -5,6 +6,7 @@ public class ManagerEquip : MonoBehaviour
     public SlotHero slotHero;
     public SlotItem[] slotItems;
     public HeroEquip currentHeroEquip;
+    public TextMeshProUGUI   txt_Describe;
 
     void Start()
     {
@@ -51,6 +53,7 @@ public class ManagerEquip : MonoBehaviour
         }
 
         slotHero.SetCharacter(dragHero);
+        txt_Describe.text = statsCard.Data.Describe;
     }
 
     private void SetItemUIs()
@@ -110,6 +113,9 @@ public class ManagerEquip : MonoBehaviour
         UpdateDataEquip(dragItem, equipSlotType);
 
         slotItem.SetItem(dragItem);
+
+        StatsCard statsCard = slotHero.DragCurrent.GetComponent<StatsCard>();
+        statsCard.UpdateStat(currentHeroEquip);
     }
     
     private void MoveTheDragged(CommonDrag drag, Transform parent)
