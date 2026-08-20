@@ -24,6 +24,7 @@ public class ManagerSlotBattle : MonoBehaviour
         if (slotHero.DragCurrent != null)
         {
             MoveTheDragged(slotHero.DragCurrent, dragHero.transform.parent);
+            slotHero.DragCurrent.SetHeroRectTransform();
         }
         // set the new hero to the slot
         MoveTheDragged(dragHero, slotHero.transform);

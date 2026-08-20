@@ -31,7 +31,10 @@ public class SurvivalManager : MonoBehaviour
         UpdateConsumption();
         this.WaterCurrent += waterReward - WaterConsumption;
         this.MeatCurrent += meatReward - MeatConsumption;
-        if (WaterCurrent <= 0 || MeatCurrent <= 0) SceneManager.LoadScene("GameOver");
+        if (WaterCurrent <= 0 || MeatCurrent <= 0)
+            SceneManager.LoadScene("GameOver");
+        else if (DayCurrent == 9)
+            SceneManager.LoadScene("GameVictory");
     }
     public int TakeDay()
     {

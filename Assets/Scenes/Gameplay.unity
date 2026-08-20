@@ -268,6 +268,7 @@ GameObject:
   - component: {fileID: 127951942}
   - component: {fileID: 127951941}
   - component: {fileID: 127951940}
+  - component: {fileID: 127951944}
   - component: {fileID: 127951943}
   m_Layer: 5
   m_Name: Aquatic Area
@@ -352,6 +353,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 127951944}
+        m_TargetAssemblyTypeName: OnClickSound, Assembly-CSharp
+        m_MethodName: ClickSound
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &127951941
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -402,6 +415,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a2fce4115ddd934e9ce049f22a19e8e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &127951944
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 127951938}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eea7ccc0f22a3fe429bb75bcbde8b00c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  onClick: {fileID: 8300000, guid: 1a7985cd15e6a2f48bd4a1f1be7bff19, type: 3}
+  audioSource: {fileID: 0}
 --- !u!1 &308774529
 GameObject:
   m_ObjectHideFlags: 0
@@ -1570,6 +1597,7 @@ GameObject:
   - component: {fileID: 1443956320}
   - component: {fileID: 1443956319}
   - component: {fileID: 1443956318}
+  - component: {fileID: 1443956322}
   - component: {fileID: 1443956321}
   m_Layer: 5
   m_Name: 'City area '
@@ -1642,9 +1670,21 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 127951943}
+      - m_Target: {fileID: 1443956321}
         m_TargetAssemblyTypeName: GiaoDien, Assembly-CSharp
         m_MethodName: LoadSceneCityArea
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1443956322}
+        m_TargetAssemblyTypeName: OnClickSound, Assembly-CSharp
+        m_MethodName: ClickSound
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1704,6 +1744,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a2fce4115ddd934e9ce049f22a19e8e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1443956322
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1443956316}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eea7ccc0f22a3fe429bb75bcbde8b00c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  onClick: {fileID: 8300000, guid: 1a7985cd15e6a2f48bd4a1f1be7bff19, type: 3}
+  audioSource: {fileID: 0}
 --- !u!1 &1547890725
 GameObject:
   m_ObjectHideFlags: 0
@@ -1826,6 +1880,7 @@ GameObject:
   - component: {fileID: 1598520553}
   - component: {fileID: 1598520552}
   - component: {fileID: 1598520551}
+  - component: {fileID: 1598520555}
   - component: {fileID: 1598520554}
   m_Layer: 5
   m_Name: Heroes
@@ -1898,9 +1953,21 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 127951943}
+      - m_Target: {fileID: 1598520554}
         m_TargetAssemblyTypeName: GiaoDien, Assembly-CSharp
         m_MethodName: LoadSceneHeroes
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1598520555}
+        m_TargetAssemblyTypeName: OnClickSound, Assembly-CSharp
+        m_MethodName: ClickSound
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1960,6 +2027,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a2fce4115ddd934e9ce049f22a19e8e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1598520555
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1598520549}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eea7ccc0f22a3fe429bb75bcbde8b00c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  onClick: {fileID: 8300000, guid: 1a7985cd15e6a2f48bd4a1f1be7bff19, type: 3}
+  audioSource: {fileID: 0}
 --- !u!1 &1603527053
 GameObject:
   m_ObjectHideFlags: 0
@@ -2219,6 +2300,7 @@ GameObject:
   - component: {fileID: 1824231844}
   - component: {fileID: 1824231843}
   - component: {fileID: 1824231842}
+  - component: {fileID: 1824231846}
   - component: {fileID: 1824231845}
   m_Layer: 5
   m_Name: Recruitment
@@ -2291,9 +2373,21 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 127951943}
+      - m_Target: {fileID: 1824231845}
         m_TargetAssemblyTypeName: GiaoDien, Assembly-CSharp
         m_MethodName: LoadSceneRecruit
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1824231846}
+        m_TargetAssemblyTypeName: OnClickSound, Assembly-CSharp
+        m_MethodName: ClickSound
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2353,6 +2447,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a2fce4115ddd934e9ce049f22a19e8e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1824231846
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1824231840}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eea7ccc0f22a3fe429bb75bcbde8b00c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  onClick: {fileID: 8300000, guid: 1a7985cd15e6a2f48bd4a1f1be7bff19, type: 3}
+  audioSource: {fileID: 0}
 --- !u!1 &1863667022
 GameObject:
   m_ObjectHideFlags: 0
@@ -2861,6 +2969,7 @@ GameObject:
   - component: {fileID: 2095724734}
   - component: {fileID: 2095724733}
   - component: {fileID: 2095724732}
+  - component: {fileID: 2095724736}
   - component: {fileID: 2095724735}
   m_Layer: 5
   m_Name: forest area
@@ -2933,9 +3042,21 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 127951943}
+      - m_Target: {fileID: 2095724735}
         m_TargetAssemblyTypeName: GiaoDien, Assembly-CSharp
         m_MethodName: LoadSceneForestArea
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 2095724736}
+        m_TargetAssemblyTypeName: OnClickSound, Assembly-CSharp
+        m_MethodName: ClickSound
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2995,6 +3116,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a2fce4115ddd934e9ce049f22a19e8e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &2095724736
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2095724730}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eea7ccc0f22a3fe429bb75bcbde8b00c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  onClick: {fileID: 8300000, guid: 1a7985cd15e6a2f48bd4a1f1be7bff19, type: 3}
+  audioSource: {fileID: 0}
 --- !u!1 &152024152597196702
 GameObject:
   m_ObjectHideFlags: 0

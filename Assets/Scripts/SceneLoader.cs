@@ -31,4 +31,8 @@ public class GiaoDien : MonoBehaviour
     {
         SceneManager.LoadScene("Gameplay");
     }
+    public void LoadSceneGameVictory()
+    {
+        SceneManager.LoadScene("GameVictory");
+    }
 }

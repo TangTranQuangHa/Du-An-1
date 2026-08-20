@@ -1107,6 +1107,7 @@ GameObject:
   - component: {fileID: 5836810189468956003}
   - component: {fileID: 4508228333194859143}
   - component: {fileID: 7595780674677965903}
+  - component: {fileID: 7595780674677965904}
   m_Layer: 5
   m_Name: btn_Play
   m_TagString: Untagged
@@ -4276,6 +4277,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 7595780674677965904}
+        m_TargetAssemblyTypeName: OnClickSound, Assembly-CSharp
+        m_MethodName: ClickSound
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &4531531155546772700
 GameObject:
   m_ObjectHideFlags: 0
@@ -6254,6 +6267,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pnl_ChoseHero: {fileID: 1573437169}
+--- !u!114 &7595780674677965904
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 440393238150256421}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eea7ccc0f22a3fe429bb75bcbde8b00c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  onClick: {fileID: 8300000, guid: 1a7985cd15e6a2f48bd4a1f1be7bff19, type: 3}
+  audioSource: {fileID: 0}
 --- !u!114 &7597353228326996666
 MonoBehaviour:
   m_ObjectHideFlags: 0

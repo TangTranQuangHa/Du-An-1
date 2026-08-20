@@ -39,6 +39,11 @@ public abstract class CharacterStats : MonoBehaviour
     protected void Dead()
     {
         this.OnDeadCharacter?.Invoke();
+        Invoke(nameof(HideCharacter),0.5f);
+    }
+    
+    protected void HideCharacter()
+    {
         transform.parent.gameObject.SetActive(false);
     }
 }
